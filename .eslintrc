@@ -1,9 +1,0 @@
-{
-  "env"     : {
-    "browser" : true
-  },
-  "rules": {
-    "semi" : [2, "always"],
-		"indent" : [2, 2]
-  }
-}
