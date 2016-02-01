@@ -1,8 +1,24 @@
 ---
-layout: post
-title: Hi! 
-date: 2016-01-31
-author: Alanna Joanne
+layout: default
 ---
+<!--  -->
+<div class="home">
+  <ul class="post-list">
+    {% for post in site.posts %}
+    <li>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-Hi! 
+      <h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+      <p class="post-content">
+        {{ post.excerpt }}
+      </p>
+    </li>
+    {% endfor %}
+  </ul>
+
+  <!--
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  -->
+</div>
