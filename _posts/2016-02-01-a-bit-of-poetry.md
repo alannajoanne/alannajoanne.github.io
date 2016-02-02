@@ -3,7 +3,6 @@ layout: post
 title:  "A little bit of poetry"
 date:   2016-02-01 14:20:51 -0500
 categories:  poem collaboration winter dark writing
-shareDescription: 'I thought I'd take this opportunity to share a recent poem, which is just one piece of a wonderful, creative puzzle'
 author: "Alanna Joanne" 
 authorTwitter: "@alannajoanne11"
 ---

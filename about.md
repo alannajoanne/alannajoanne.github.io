@@ -19,3 +19,4 @@ And of course
 
 
 I also invite you to explore my poetry! Find me on Tumblr [here](http://alannajoanne.tumblr.com) or [here](http://seasalt-stardust-wanderlust.tumblr.com).
+
