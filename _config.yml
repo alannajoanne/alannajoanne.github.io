@@ -21,3 +21,5 @@ contactEmail: alanna@alannajoanne.com
 markdown: kramdown
 
 excerpt_separator: <!--more-->
+
+exclude: ['assets/css/main.scss']
