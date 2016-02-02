@@ -169,8 +169,10 @@ gulp.task('sass:build', ['jekyll build'], function () {
 // (the org's project's GitHub Page)
 // // http://alannajoanne.com/alannajoanne.assets
 // Usage example:
-// http://alannajoanne.com/alannajoanne.assets/images/duy-montreal-fashion-week-jasonhargrove.jpg
-gulp.task('deploy:assets', ['kraken', 'sass'], function () {
+// http://alannajoanne.com/alannajoanne.assets/images/shoots-mood-board-floral-colour.jpg
+
+// Todo: add sync sass task
+gulp.task('deploy:assets', ['kraken'], function () {
   return gulp.src('./_site/assets/**/*')
     .pipe(deploy({
       remoteUrl: 'https://github.com/alannajoanne/alannajoanne.assets',
