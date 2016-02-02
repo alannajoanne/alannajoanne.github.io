@@ -10,7 +10,13 @@ authorTwitter: '@alannajoanne11'
 ###Currently Collaborating With:
 
 > [Think2Thing](https://twitter.com/Think2thing)  
+
+<br>
+
 > [Edward Burtynsky](https://twitter.com/edwardburtynsky)  
+
+<br>
+
 > [Anthropocene](https://twitter.com/anthropocene) (The Film)  
 
 And of course
