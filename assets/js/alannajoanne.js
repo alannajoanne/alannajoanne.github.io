@@ -3,15 +3,15 @@
 function App () {
   return {
     start: function () {
-      console.log('Shoots Official 🌳');
+      console.log('Alanna Joanne 🌳');
       return this;
     }
   };
 };
 
 function start () {
-  window.shoots = App();
-  return window.shoots.start();
+  window.alannajoanne = App();
+  return window.alannajoanne.start();
 }
 
 function onReady (cb) {
