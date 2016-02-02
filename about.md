@@ -11,7 +11,7 @@ authorTwitter: '@alannajoanne11'
 
 > [Think2Thing](https://twitter.com/Think2thing)  
 > [Edward Burtynsky](https://twitter.com/edwardburtynsky)  
-> [Anthropocene](https://twitter.com/anthropocene)(The Film)  
+> [Anthropocene](https://twitter.com/anthropocene) (The Film)  
 
 And of course
 
