@@ -2,7 +2,7 @@
 layout: page
 title: About 
 permalink: /about/
-excerpt: 'Looking for a creative collaborator? Let's chat! ☺️'
+excerpt: 'Looking for a creative collaborator? Contact me: alanna@alannajoanne.com!'
 author: 'Alanna Joanne'
 authorTwitter: '@alannajoanne11'
 ---
