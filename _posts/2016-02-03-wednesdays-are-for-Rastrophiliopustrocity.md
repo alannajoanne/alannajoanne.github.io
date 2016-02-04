@@ -10,4 +10,3 @@ shareImage: 'http://alannajoanne.com/alannajoanne.assets/images/tumblr-rastrophi
 
 <a href="http://alannajoanne.com/alannajoanne.assets/images/tumblr-rastrophiliopustrocity-wordstuck.gif">
 	<img src="{{ page.shareImage }}"> 
-
