@@ -14,7 +14,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://alannajoanne.com" # the base hostname & protocol for your site
 twitter_username: alannajoanne11
 github_username:  alannajoanne
-shareImage: "http://alannajoanne.assets/images/alannajoanne-shoots.jpg"
+shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-shoots.jpg"
 contactEmail: alanna@alannajoanne.com
 
 # Build settings

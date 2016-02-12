@@ -2,7 +2,7 @@
 layout: page
 title: About 
 permalink: /about/
-excerpt: 'Looking for a creative collaborator? Contact me: alanna@alannajoanne.com!'
+excerpt: 'Alanna Joanne - Creative Collaborator & Digital Producer. Contact me: alanna@alannajoanne.com'
 author: 'Alanna Joanne'
 authorTwitter: '@alannajoanne11'
 ---
@@ -16,6 +16,8 @@ authorTwitter: '@alannajoanne11'
 
 
 > [Anthropocene](https://twitter.com/anthropocene) (The Film)  
+
+> [Ljuodobrag Andric](http://ljubodrag-andric.com)
 
 And of course
 
