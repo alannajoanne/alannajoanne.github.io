@@ -9,15 +9,13 @@ authorTwitter: '@alannajoanne11'
 
 ###Currently Collaborating With:
 
-> [Think2Thing](https://twitter.com/Think2thing)
-
+> [Think2Thing](https://twitter.com/Think2thing)  
 
 > [Edward Burtynsky](https://twitter.com/edwardburtynsky)  
 
-
 > [Anthropocene](https://twitter.com/anthropocene) (The Film)  
 
-> [Ljuodobrag Andric](http://ljubodrag-andric.com)
+> [Ljuodobrag Andric](http://ljubodrag-andric.com)  
 
 And of course
 
