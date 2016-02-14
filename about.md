@@ -5,6 +5,7 @@ permalink: /about/
 excerpt: 'Alanna Joanne - Creative Collaborator & Digital Producer. Contact me: alanna@alannajoanne.com'
 author: 'Alanna Joanne'
 authorTwitter: '@alannajoanne11'
+shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-shoots.jpg"
 ---
 
 ###Currently Collaborating With:
