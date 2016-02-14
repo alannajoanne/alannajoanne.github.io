@@ -114,5 +114,4 @@ her feet.
 Thanks to [@jasonhargrove](https://twitter.com/jasonhargrove) for editing with patience. 
 
 
-This poem appeared originally on Tumblr: http://seasalt-stardust-wanderlust.tumblr.com/post/136656547003/hide-seek  
-
+This poem appeared originally on [Tumblr](http://seasalt-stardust-wanderlust.tumblr.com/post/136656547003/hide-seek).  
