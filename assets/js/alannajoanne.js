@@ -1,1 +1,0 @@
-"use strict";function App(){return{start:function(){return console.log("Alanna Joanne 🌳"),this}}}function start(){return window.alannajoanne=App(),window.alannajoanne.start()}function onReady(n){return"complete"===document.readyState?n():void document.addEventListener("DOMContentLoaded",n,!1)}onReady(function(){start()});
