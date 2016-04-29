@@ -4,7 +4,7 @@ title:  "A little bit of poetry"
 date:   2016-02-01 14:20:51 -0500
 categories:  poem collaboration winter dark writing
 author: "Alanna Joanne" 
-authorTwitter: "@alannajoanne11"
+authorTwitter: "@alanna_joanne"
 ---
 
 ###This is my very first post to my very first website!

@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 excerpt: 'Alanna Joanne - Creative Collaborator & Digital Producer. Contact me: alanna@alannajoanne.com'
 author: 'Alanna Joanne'
-authorTwitter: '@alannajoanne11'
+authorTwitter: '@alanna_joanne'
 shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-shoots.jpg"
 ---
 
@@ -18,6 +18,4 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-sho
 
 > [Ljuodobrag Andric](http://ljubodrag-andric.com)  
 
-And of course
 
->[Shoots Official](http://shootsofficial.com)

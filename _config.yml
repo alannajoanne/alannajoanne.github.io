@@ -9,10 +9,10 @@
 title: Alanna Joanne
 email: alanna@alannajoanne.com
 description: > # this means to ignore newlines until "baseurl:"
-  Freelance Digital Producer. Producer at @shootsOfficial & @goMainstream. Often can be found curled up in a cozy chair writing lines of poetry 🐚🌱 
+  Creative Collaborator & Freelance Digital Producer  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://alannajoanne.com" # the base hostname & protocol for your site
-twitter_username: alannajoanne11
+twitter_username: alanna_joanne
 github_username:  alannajoanne
 shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-shoots.jpg"
 contactEmail: alanna@alannajoanne.com

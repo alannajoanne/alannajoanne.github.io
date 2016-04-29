@@ -4,7 +4,7 @@ title: "New skills"
 date: 2016-02-02 01:57:51 -0500
 categories: tweet collaboration github workflow shoots official
 author: "Alanna Joanne"
-authorTwitter: "@alannajoanne11"
+authorTwitter: "@alanna_joanne"
 ---
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">One of the best parts of my week was getting the opportunity, under great tutelage, to expand my skill set 🤓💻 <a href="https://t.co/AcGwmjBnKC">https://t.co/AcGwmjBnKC</a></p>&mdash; alanna joanne (@alannajoanne11) <a href="https://twitter.com/alannajoanne11/status/693148958797991936">January 29, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

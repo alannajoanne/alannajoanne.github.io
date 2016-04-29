@@ -4,7 +4,7 @@ title:  "Wednesdays are for rastrophiliopustrocity"
 date:   2016-02-03 12:20:51 -0500
 categories:  wednesday creative inspiration inspired rastrophiliopustrocity tumblr gif
 author: "Alanna Joanne" 
-authorTwitter: "@alannajoanne11"
+authorTwitter: "@alanna_joanne"
 shareImage: 'http://alannajoanne.com/alannajoanne.assets/images/tumblr-rastrophiliopustrocity-wordstuck.gif'
 ---
 
