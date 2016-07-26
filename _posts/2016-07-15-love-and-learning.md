@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Love and learning"
+title:  "Learning"
 date:   2016-07-15 01:00:51 -0500
 categories: THWhite prose learning wisdom  
 author: "Alanna Joanne" 
