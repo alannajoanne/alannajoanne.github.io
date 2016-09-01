@@ -18,4 +18,4 @@ Landscape Study #2
 Bruce Peninsula, Ontario  
 1981  
 
-http://bit.ly/2bY9okn
+[http://bit.ly/2bY9okn](http://bit.ly/2bY9okn)
