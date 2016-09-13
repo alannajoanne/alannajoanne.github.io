@@ -15,9 +15,8 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-sho
 <center>Editing | Copyediting | Creative Copywriting</center>
 
 <center>Social Media | Website Management</center> 
-
-
   
+    
 
 ###Currently Collaborating With:
 
