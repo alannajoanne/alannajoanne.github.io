@@ -12,6 +12,13 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-sho
   <img src="http://alannajoanne.com/alannajoanne.assets/images/aj-creativeconsulting-logo-black3.png">
 </a> 
 
+<center>Editing | Copyediting | Creative Copywriting</center>
+
+<center>Social Media | Website Management</center> 
+
+
+  
+
 ###Currently Collaborating With:
 
 > [Think2Thing](https://twitter.com/Think2thing)  
