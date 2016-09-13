@@ -8,6 +8,10 @@ authorTwitter: '@alanna_joanne'
 shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-shoots.jpg"
 ---
 
+<a href="http://alannajoanne.com/alannajoanne.assets/images/aj-creativeconsulting-logo-black3.png">
+  <img src="http://alannajoanne.com/alannajoanne.assets/images/aj-creativeconsulting-logo-black3.png">
+</a> 
+
 ###Currently Collaborating With:
 
 > [Think2Thing](https://twitter.com/Think2thing)  
