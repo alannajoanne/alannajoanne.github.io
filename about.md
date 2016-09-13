@@ -14,10 +14,10 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-sho
 
 <center>Editing | Copyediting | Creative Copywriting</center>
 
-<center>Social Media | Website Management</center> 
-  
-    
+<center>Social Media | Website Management</center>  
 
+<br>
+  
 ###Currently Collaborating With:
 
 > [Think2Thing](https://twitter.com/Think2thing)  
