@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About 
+title:  
 permalink: /about/
 excerpt: 'Alanna Joanne - Creative Collaborator & Digital Producer. Contact me: alanna@alannajoanne.com'
 author: 'Alanna Joanne'
