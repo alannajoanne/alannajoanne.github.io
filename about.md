@@ -26,6 +26,6 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-sho
 
 > [Anthropocene](https://twitter.com/anthropocene) (The Film)  
 
-> [Ljuodobrag Andric](http://ljubodrag-andric.com)  
+> [Ljuobodrag Andric](http://ljubodrag-andric.com)  
 
 
