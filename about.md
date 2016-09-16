@@ -8,9 +8,9 @@ authorTwitter: '@alanna_joanne'
 shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-shoots.jpg"
 ---
 
-<a href="http://alannajoanne.com/about">
+<center><a href="http://alannajoanne.com/about">
   <img src="http://alannajoanne.com/alannajoanne.assets/images/aj-creativeconsulting-logo-black-small.png">
-</a> 
+</a></center> 
 
 <center>Editing | Copyediting | Creative Copywriting</center>
 
