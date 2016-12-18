@@ -21,6 +21,7 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-sho
 ###Currently Collaborating With:
 
 > [Think2Thing](https://twitter.com/Think2thing)  
-
 > [Edward Burtynsky](https://twitter.com/edwardburtynsky)  
-> [Anthropocene](https://twitter.com/anthropocene) (The Film)  
+> [The Anthropocene Project](https://twitter.com/anthropocene)
+> [Ljubodrag Andric](http://ljubodrag-andric.com/)
+
