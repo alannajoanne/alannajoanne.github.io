@@ -5,4 +5,4 @@ A Jekyll site hosted free with GitHub Pages with a custom domain name. Standard 
 Site: 
 
 
-Twitter: @alanna_joanne Contact: alanna@alannajoanne.com
+Twitter: @alanna_joanne Contact: info@alannajoanne.com

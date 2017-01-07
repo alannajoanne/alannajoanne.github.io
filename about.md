@@ -12,15 +12,23 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-sho
   <img src="http://alannajoanne.com/alannajoanne.assets/images/aj-creativeconsulting-logo-black-small.png">
 </a></center> 
 
-<center>Editing | Copyediting | Creative Copywriting</center>
+<center>Editing <b>|</b> Copyediting <b>|</b> Creative Copywriting</center>  
 
-<center>Social Media | Website Management</center>  
+<center>Social Media <b>|</b> Website Management <b>|</b> Junior UX Design</center>
+
+<br>
+
+<center><b><em>Currently Interested In:</em></b></center>  
+<center>Art <b>|</b> Journalism <b>|</b> Environmental Activism <b>|</b> Documentary <b>|</b> AI</center>  
 
 <br>
   
 ###Currently Collaborating With:
 
-> [Think2Thing](https://twitter.com/Think2thing)  
 > [Edward Burtynsky](https://twitter.com/edwardburtynsky)  
-> [The Anthropocene Project](https://twitter.com/anthropocene)  
-> [Ljubodrag Andric](http://ljubodrag-andric.com/)
+> [The Anthropocene Project](https://twitter.com/anthropocene)   
+> [Jason Hargrove +](https://twitter.com/jasonhargrove)  
+> [Think2Thing](https://twitter.com/Think2thing)  
+> [Be3D](http://be3dimensional.com/) <em>(new site coming soon!)</em>  
+> [Ljubodrag Andric](http://ljubodrag-andric.com/)  
+
