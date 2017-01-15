@@ -7,11 +7,6 @@ author: "Alanna Joanne"
 authorTwitter: "@alanna_joanne"
 ---
 
-###This is my very first post to my very first website!
-
-So I thought I'd take the opportunity to share a recent poem, which is just one piece of the wonderful, creative puzzle I have been collaborating on lately. 
-
-
 <div class="poem">
   <p>
 *Hide & Seek*
