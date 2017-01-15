@@ -22,12 +22,12 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-sho
 <br>
 <div class="poem">
  <p>
-<center><b>My services include but are not limited to:</b></center>
+<center><b>My Services Include:</b></center>
 <center>Editing <b>|</b> Copyediting <b>|</b> Creative Copywriting</center>  
 <center>Social Media <b>|</b> Website Management <b>|</b> Junior UX Design</center>
-<center>Resesarch <b>|</b> Ghost Writing</center>
+<center>Research <b>|</b> Ghost Writing</center>
 <br>
-<center><b>Projects in:</b></center>  
+<center><b>Projects In:</b></center>  
 <center>Art <b>|</b> Photography <b>|</b> Documentary Film </center>
 <center>Environmental Activism <b>|</b> Tech <b>|</b> AI</center>
 <center>Journalism <b>|</b> Poetry & Prose</center>
