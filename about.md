@@ -18,7 +18,7 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-sho
 
 <br>
 
-### <center>With a speciality in the arts and creative industries, my mission is to provide creative consulting in a way that is both meaningful and collaborative.</center>
+### <center>With a strong focus on the arts and creative industries, my mission is to provide creative consulting in a way that is both meaningful and collaborative.</center>
 <br>
 <div class="poem">
  <p>
@@ -27,8 +27,10 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-sho
 <center>Social Media <b>|</b> Website Management <b>|</b> Junior UX Design</center>
 <center>Resesarch <b>|</b> Ghost Writing</center>
 <br>
-<center><b><em>Interested In:</em></b></center>  
-<center>Art <b>|</b> Journalism <b>|</b> Environmental Activism <b>|</b> Documentary <b>|</b> AI</center>  
+<center><b>Projects in:</b></center>  
+<center>Art <b>|</b> Photography <b>|</b> Documentary Film </center>
+<center>Environmental Activism <b>|</b> Tech <b>|</b> AI</center>
+<center>Journalism <b>|</b> Poetry & Prose</center>
 </p>
 <br>
 </div>
@@ -44,6 +46,10 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-sho
 <center><a href="http://be3dimensional.com/">Be3Dimensional</a></center>
 <center><a href="http://ljubodrag-andric.com/">Ljubodrag Andric</a></center>
 
+<br>
+
+<center><em>Interested in a collaboration? Let's chat!</em></center> 
+<center>💌  <a href="mailto:info@alannajoanne.com">info@alannajoanne.com</a></center>
 <br>
 
 ***
