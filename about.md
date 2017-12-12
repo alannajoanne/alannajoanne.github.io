@@ -39,17 +39,30 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-sho
   
 #### <center>Currently Collaborating With</center>
 
-<center><a href="https://twitter.com/jasonhargrove">Jason Hargrove +</a></center>
 <center><a href="https://twitter.com/edwardburtynsky">Edward Burtynsky</a></center>
 <center><a href="https://twitter.com/anthropocene">The Anthropocene Project</a></center>
+<center><a href="https://twitter.com/jasonhargrove">Jason Hargrove +</a></center>
+<center><a href="https://twitter.com/makefamiliar">Familiar A.I.</a></center>
+
+<br>
+
+#### <center>Past Collaborations</center>
+
 <center><a href="https://twitter.com/think2thing">Think2Thing</a></center>
 <center><a href="http://be3dimensional.com/">Be3Dimensional</a></center>
 <center><a href="http://ljubodrag-andric.com/">Ljubodrag Andric</a></center>
 
 <br>
 
+#### <center>Presentations</center>
+
+<center><Guest Lecture, Social Media, Marketing & Self Promotion for 4th Year Students at Ryerson University's School of Image Arts, April 2016</a></center>
+
+
+<br> 
+
 <center><em>Interested in a collaboration? Let's chat!</em></center> 
-<center>💌  <a href="mailto:info@alannajoanne.com">info@alannajoanne.com</a></center>
+<center>💌  <a href="mailto:collaborate@alannajoanne.com">info@alannajoanne.com</a></center>
 <br>
 
 ***
