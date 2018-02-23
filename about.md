@@ -37,7 +37,7 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-sho
 
 <br>
   
-#### <center>Currently Collaborating With</center>
+#### <center>CURRENTLY COLLABORATING WITH</center>
 
 <center><a href="https://twitter.com/edwardburtynsky">Edward Burtynsky</a></center>
 <center><a href="https://twitter.com/anthropocene">The Anthropocene Project</a></center>
@@ -46,7 +46,7 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-sho
 
 <br>
 
-#### <center>Past Collaborations</center>
+#### <center>Past Collaborations</center> 
 
 <center><a href="https://twitter.com/think2thing">Think2Thing</a></center>
 <center><a href="http://be3dimensional.com/">Be3Dimensional</a></center>
