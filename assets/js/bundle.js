@@ -42,7 +42,7 @@
 /************************************************************************/
 /******/ ([
 /* 0 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	'use strict';
 
@@ -75,9 +75,9 @@
 	  var app = window.shoots.app = App().start();
 	});
 
-/***/ },
+/***/ }),
 /* 1 */
-/***/ function(module, exports) {
+/***/ (function(module, exports) {
 
 	'use strict';
 
@@ -87,5 +87,5 @@
 	  }, i[r].l = 1 * new Date();a = s.createElement(o), m = s.getElementsByTagName(o)[0];a.async = 1;a.src = g;m.parentNode.insertBefore(a, m);
 	})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');ga('create', 'UA-73338312-1', 'auto');ga('send', 'pageview');
 
-/***/ }
+/***/ })
 /******/ ]);
