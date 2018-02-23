@@ -18,7 +18,7 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-sho
 
 <br>
 
-### <center>With a strong focus on the arts and creative industries, my mission is to provide creative consulting in a way that is both meaningful and collaborative.</center>
+### <center>With a strong focus in the arts and creative industries, my mission is to provide creative consulting in a way that is both meaningful and collaborative.</center>
 <br>
 <div class="poem">
  <p>
@@ -51,6 +51,7 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-sho
 <center><a href="https://twitter.com/think2thing">Think2Thing</a></center>
 <center><a href="http://be3dimensional.com/">Be3Dimensional</a></center>
 <center><a href="http://ljubodrag-andric.com/">Ljubodrag Andric</a></center>
+<center><a href="http://shootsofficial.com/">Shoots</a></center>
 
 <br>
 
