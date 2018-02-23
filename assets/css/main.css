@@ -1158,11 +1158,11 @@ pre {
 
 @media screen and (max-width: 800px) {
   .footer-col-1 {
-    width: -webkit-calc(40% - (25px / 2));
-    width: calc(40 - (25px / 2)); }
+    width: -webkit-calc(24% - (25px / 2));
+    width: calc(24 - (25px / 2)); }
   .footer-col-2 {
-    width: -webkit-calc(60% - (25px / 2));
-    width: calc(60% - (25px / 2)); }
+    width: -webkit-calc(30% - (25px / 2));
+    width: calc(30% - (25px / 2)); }
   .footer-col-3 {
     width: -webkit-calc(100% - (25px / 2));
     width: calc(100% - (25px / 2)); } }
