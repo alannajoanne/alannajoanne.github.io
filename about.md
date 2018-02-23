@@ -2,7 +2,7 @@
 layout: page
 title:  
 permalink: /about/
-excerpt: 'Alanna Joanne - Creative Collaborator & Digital Producer. Contact me: alanna@alannajoanne.com'
+excerpt: 'Alanna Joanne - Creative Collaborator & Digital Producer. Contact me: collaborate@alannajoanne.com'
 author: 'Alanna Joanne'
 authorTwitter: '@alanna_joanne'
 shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-shoots.jpg"
@@ -11,7 +11,7 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-sho
 <center><a href="http://alannajoanne.com/about">
   <img src="http://alannajoanne.com/alannajoanne.assets/images/aj-creativeconsulting-logo-black-small.png">
 </a></center> 
-
+ 
 <br>
 
 ***
@@ -57,13 +57,14 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-sho
 
 #### <center>Presentations</center>
 
-<center>Guest Lecture, Social Media, Marketing & Self Promotion for 4th Year Students at Ryerson University's School of Image Arts, April 2016</center>
+<center>March 2018 // Guest Lecture, Social Media, Marketing & Self Promotion for 4th Year Students at Ryerson University's School of Image Arts </center>
+<center> April 2017 // Guest Lecture, Social Media, Marketing & Self Promotion for 4th Year Students at Ryerson University's School of Image Arts</center>
 
 
 <br> 
 
 <center><em>Interested in a collaboration? Let's chat!</em></center> 
-<center>💌  <a href="mailto:collaborate@alannajoanne.com">info@alannajoanne.com</a></center>
+<center>💌  <a href="mailto:collaborate@alannajoanne.com">collaborate@alannajoanne.com</a></center>
 <br>
 
 ***
