@@ -31,7 +31,7 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-sho
 <center>Art <b>|</b> Photography <b>|</b> Documentary Film </center>
 <center>Environmental Activism <b>|</b> Tech <b>|</b> AI</center>
 <center>Journalism <b>|</b> Poetry & Prose</center>
-</p>
+</p> 
 <br>
 </div>
 
@@ -57,7 +57,7 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-sho
 
 #### <center>Presentations</center>
 
-<center><Guest Lecture, Social Media, Marketing & Self Promotion for 4th Year Students at Ryerson University's School of Image Arts, April 2016</a></center>
+<center>Guest Lecture, Social Media, Marketing & Self Promotion for 4th Year Students at Ryerson University's School of Image Arts, April 2016</center>
 
 
 <br> 

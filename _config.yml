@@ -9,7 +9,7 @@
 title: Alanna Joanne
 email: collaborate@alannajoanne.com
 description: > # this means to ignore newlines until "baseurl:"
-  Creative Collaborator, Poet & Digital Producer  
+Creative Collaborator, Poet & Digital Producer  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://alannajoanne.com" # the base hostname & protocol for your site
 twitter_username: alanna_joanne
@@ -22,3 +22,4 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-sho
 markdown: kramdown
 excerpt_separator: <!--more-->
 exclude: ['node_modules', 'assets/css/main.scss', 'gulpfile.js', 'README.md', 'webpack.config.js']
+ 
