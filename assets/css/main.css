@@ -1116,13 +1116,12 @@ pre {
         .site-nav .page-link:not(:last-child) {
           margin-right: 0; } }
 
-/**
- * Site footer
- */
 .site-footer {
+  font-family: "Avenir LT STD 45 Book", Avenir, sans-serif;
   padding: 25px 0; }
 
 .footer-heading {
+  font-size: 16px;
   margin-bottom: 12.5px; }
 
 .contact-list,
@@ -1145,24 +1144,24 @@ pre {
   padding-left: 12.5px; }
 
 .footer-col-1 {
-  width: -webkit-calc(32% - (25px / 2));
-  width: calc(32% - (25px / 2)); }
+  width: -webkit-calc(30% - (25px / 2));
+  width: calc(30% - (25px / 2)); }
 
 .footer-col-2 {
-  width: -webkit-calc(21% - (25px / 2));
-  width: calc(21% - (25px / 2)); }
+  width: -webkit-calc(25% - (25px / 2));
+  width: calc(25% - (25px / 2)); }
 
 .footer-col-3 {
-  width: -webkit-calc(47% - (25px / 2));
-  width: calc(47% - (25px / 2)); }
+  width: -webkit-calc(45% - (25px / 2));
+  width: calc(45% - (25px / 2)); }
 
 @media screen and (max-width: 800px) {
   .footer-col-1 {
-    width: -webkit-calc(24% - (25px / 2));
-    width: calc(24 - (25px / 2)); }
+    width: -webkit-calc(40% - (25px / 2));
+    width: calc(40 - (25px / 2)); }
   .footer-col-2 {
-    width: -webkit-calc(30% - (25px / 2));
-    width: calc(30% - (25px / 2)); }
+    width: -webkit-calc(60% - (25px / 2));
+    width: calc(60% - (25px / 2)); }
   .footer-col-3 {
     width: -webkit-calc(100% - (25px / 2));
     width: calc(100% - (25px / 2)); } }
