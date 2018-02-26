@@ -18,7 +18,8 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-sho
 
 <br>
 
-### <center>With a strong focus in the arts and creative industries, my mission is to provide creative consulting in a way that is both meaningful and collaborative.</center>
+### <center><em>With a strong focus in the arts and creative industries, my mission is to provide consulting in a way that is meaningful, collaborative, and unique.</em></center>
+
 <br>
 <div class="poem">
  <p>
@@ -31,8 +32,8 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-sho
 <center>Art <b>|</b> Photography <b>|</b> Documentary Film </center>
 <center>Tech <b>|</b> AI</center>
 <center>Journalism <b>|</b> Poetry & Prose</center>
-</p> 
 <br>
+</p>
 </div>
 
 <br>
@@ -57,9 +58,8 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-sho
 
 #### <center>Presentations</center>
 
-<center>March 2018 // Guest Lecture – Social Media, Marketing & Self Promotion for 4th Year Students at Ryerson University's School of Image Arts </center>
-<center> April 2017 // Guest Lecture – Social Media, Marketing & Self Promotion for 4th Year Students at Ryerson University's School of Image Arts</center>
-
+<center style="color: #111;">March 2018 <b>//</b> Guest Lecture – Social Media, Marketing & Self Promotion for 4th Year Students at Ryerson University's School of Image Arts </center>
+<center style="color: #111;"> April 2017 <b>//</b> Guest Lecture – Social Media, Marketing & Self Promotion for 4th Year Students at Ryerson University's School of Image Arts</center>
 
 <br> 
 
