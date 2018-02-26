@@ -7,16 +7,16 @@
 
 # Site settings
 title: Alanna Joanne
-email: collaborate@alannajoanne.com
+email: info@alannajoanne.com
 description: > # this means to ignore newlines until "baseurl:"
-  Creative Collaborator, Poet & Digital Producer
-baseurl: "" # the subpath of your site, e.g. /blog
+  Creative Collaborator, Poet & Digital Producer  
+baseurl:  # the subpath of your site, e.g. /blog
 url: "http://alannajoanne.com" # the base hostname & protocol for your site
-twitter_username: alanna_joanne
-github_username:  alannajoanne
+twitter_username: alanna_joanne  
+github_username:  alannajoanne  
 about: http://alannajoanne.com/about
 shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-shoots.jpg"
-contactEmail: collaborate@alannajoanne.com
+contactEmail: info@alannajoanne.com
 
 # Build settings
 markdown: kramdown
