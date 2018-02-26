@@ -9,7 +9,7 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-sho
 ---
 
 <center><a href="http://alannajoanne.com/about">
-  <img src="http://alannajoanne.com/alannajoanne.assets/images/aj-creativeconsulting-logo-black-small.png">
+  <img src="http://alannajoanne.com/alannajoanne.assets/images/aj-selfportrait-some-where.JPG">
 </a></center> 
  
 <br>
@@ -18,7 +18,7 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-sho
 
 <br>
 
-### <center><em>With a strong focus in the arts and creative industries, my mission is to provide consulting in a way that is meaningful, collaborative, and unique.</em></center>
+<center style="font-family: Courier New; font-size: 25px; ">With a strong focus in the arts and creative industries, my mission is to provide consulting in a way that is meaningful, collaborative, and unique.</center>
 
 <br>
 <div class="poem">
