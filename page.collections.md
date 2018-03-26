@@ -1,15 +1,15 @@
 ---
-layout: default
+layout: page 
+title:
+permalink: /collections/
+excerpt: 'On the Path of the Beam // Twitter: @alanna_joanne'
+author: 'Alanna Joanne'
+authorTwitter: '@alanna_joanne'
 ---
 
-<div class="links">
- // <a href="/about">ABOUT</a> //
-  <!-- <a href="/collections">COLLECTIONS</a> -->
-</div>
-<br>
-<div class="home">
+<div>
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts.collections %}
     <li>
       <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -22,8 +22,4 @@ layout: default
     </li>
     {% endfor %}
   </ul>
-
-  <!--
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-  -->
-</div>
+</div> 
