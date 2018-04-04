@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Still I Rise – Maya Angelou"
+title:  "Still I Rise, Maya Angelou"
 date:   2018-04-04 11:20:51 -0500
 categories:  poems
 author: "Alanna Joanne" 
@@ -50,7 +50,7 @@ Still I'll rise.
 
 <!--more-->
 
-Continue reading Still I Rise on [Poets.org](https://www.poets.org/poetsorg/poem/still-i-rise).
+Continue reading Still I Rise on [Poets.org](https://www.poets.org/poetsorg/poem/still-i-rise)
 
 Maya Angelou, born on this day in 1928
 
