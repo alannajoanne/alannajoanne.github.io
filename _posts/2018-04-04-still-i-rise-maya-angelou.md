@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Still I Rise, Maya Angelou"
+title:  "Still I Rise // Maya Angelou"
 date:   2018-04-04 11:20:51 -0500
 categories:  poems
 author: "Alanna Joanne" 
