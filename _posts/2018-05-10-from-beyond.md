@@ -5,7 +5,7 @@ date:   2018-05-10 09:20:51 -0500
 categories:  poems
 author: "Alanna Joanne" 
 authorTwitter: "@alanna_joanne"
-shareImage: ""
+shareImage: "http://alannajoanne.com/alannajoanne.assets/images/from-beyond.JPG"
 ---
 
 <div class="poem">
