@@ -58,7 +58,7 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-sho
 
 #### <center>Presentations</center>
 
-<center style="color: #111;">March 2018 <b>//</b> Guest Lecture – Social Media, Marketing & Self Promotion for 4th Year Students at Ryerson University's School of Image Arts </center>
+<center style="color: #111;">March 2018 <b>//</b> Guest Lecture – Social Media: Storytelling & The Truth Revolution at Ryerson University's School of Image Arts </center>
 <center style="color: #111;"> April 2017 <b>//</b> Guest Lecture – Social Media, Marketing & Self Promotion for 4th Year Students at Ryerson University's School of Image Arts</center>
 
 <br> 
