@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  
-permalink: /about/
+permalink: /about
 excerpt: 'Alanna Joanne - Creative Collaborator & Digital Producer. Contact me: collaborate@alannajoanne.com'
 author: 'Alanna Joanne'
 authorTwitter: '@alanna_joanne'

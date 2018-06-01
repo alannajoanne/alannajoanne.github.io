@@ -1,7 +1,7 @@
 ---
 layout: page 
 title:
-permalink: /collections/
+permalink: /poetry/collections
 excerpt: 'On the Path of the Beam // Twitter: @alanna_joanne'
 author: 'Alanna Joanne'
 authorTwitter: '@alanna_joanne'
