@@ -47,7 +47,7 @@ to foot.
 </p>
 
 <p>
-And what is there for show for it?
+And what is there to show for it?
 <br>
 From holding this globe
 <br>
