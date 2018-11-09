@@ -5,9 +5,7 @@ date:   2018-11-09 09:20:51 -0500
 categories:  poems
 author: "Alanna Joanne" 
 authorTwitter: "@alanna_joanne"
-shareImage: "
-        alannajoanne.assets/images/out-of-orbit.PNG
-      "
+shareImage: "http://alannajoanne.com/alannajoanne.assets/images/out-of-orbit.PNG"
 ---
 
 <div class="poem">
