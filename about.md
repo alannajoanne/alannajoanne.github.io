@@ -42,13 +42,13 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-sho
 
 <center><a href="https://twitter.com/edwardburtynsky">Edward Burtynsky</a></center>
 <center><a href="https://twitter.com/anthropocene">The Anthropocene Project</a></center>
-<center><a href="https://twitter.com/jasonhargrove">Jason Hargrove +</a></center>
-<center><a href="https://twitter.com/makefamiliar">Familiar A.I.</a></center>
 
 <br>
 
 #### <center>Past Collaborations</center> 
 
+<center><a href="https://twitter.com/jasonhargrove">Jason Hargrove +</a></center>
+<center><a href="https://twitter.com/makefamiliar">Familiar A.I.</a></center>
 <center><a href="https://twitter.com/think2thing">Think2Thing</a></center>
 <center><a href="http://be3dimensional.com/">Be3Dimensional</a></center>
 <center><a href="http://ljubodrag-andric.com/">Ljubodrag Andric</a></center>
