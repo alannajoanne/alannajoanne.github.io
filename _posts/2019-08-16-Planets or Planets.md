@@ -5,7 +5,7 @@ date:   2019-08-16 09:20:51 -0500
 categories:  poems
 author: "Alanna Joanne" 
 authorTwitter: "@alanna_joanne"
-shareImage: "http://alannajoanne.com/alannajoanne.assets/images/body-language.jpg"
+shareImage: ""
 ---
 
 <div class="poem">
