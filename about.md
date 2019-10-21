@@ -5,7 +5,7 @@ permalink: /about
 excerpt: 'Alanna Joanne - Creative Collaborator & Digital Producer. Contact me: collaborate@alannajoanne.com'
 author: 'Alanna Joanne'
 authorTwitter: '@alanna_joanne'
-shareImage: "http://alannajoanne.com/alannajoanne.assets/images/aj-selfportrait-some-where.JPG"
+shareImage: "http://alannajoanne.com/alannajoanne.assets/images/halloween-portrait.JPG"
 ---
 
 <center><a href="http://alannajoanne.com/about">
