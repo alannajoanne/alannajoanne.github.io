@@ -8,6 +8,10 @@ authorTwitter: '@alanna_joanne'
 shareImage: "http://alannajoanne.com/alannajoanne.assets/images/halloween-portrait.JPG"
 ---
 
+<center style="font-family: Courier New; font-size: 25px; ">MEDIA & COMMUNICATIONS MANAGER</center>
+
+<br>
+
 <center><a href="http://alannajoanne.com/about">
   <img class="img-responsive" class="w3-round-large" src="http://alannajoanne.com/alannajoanne.assets/images/halloween-portrait.JPG">
 </a></center> 
@@ -18,7 +22,7 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/halloween-portra
 
 <br>
 
-<center style="font-family: Courier New; font-size: 25px; ">MEDIA & COMMUNICATIONS MANAGER <br> With a strong focus in the arts and creative industries, my mission is to provide my services in a way that is meaningful, collaborative, and unique.</center>
+<center style="font-family: Courier New; font-size: 25px; ">With a strong focus in the arts and creative industries, my mission is to provide my services in a way that is meaningful, collaborative, and unique.</center>
 
 <br>
 <div class="poem">
