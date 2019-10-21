@@ -9,7 +9,7 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/halloween-portra
 ---
 
 <center><a href="http://alannajoanne.com/about">
-  <img src="http://alannajoanne.com/alannajoanne.assets/images/aj-selfportrait-some-where.JPG">
+  <img src="http://alannajoanne.com/alannajoanne.assets/images/halloween-portrait.JPG">
 </a></center> 
  
 <br>
