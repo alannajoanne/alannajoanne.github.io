@@ -11,9 +11,9 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/halloween-portra
 <center style="font-family: Courier New; font-size: 25px; ">MEDIA & COMMUNICATIONS MANAGER</center>
 
 <br>
-
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <center><a href="http://alannajoanne.com/about">
-  <img class="img-responsive" class="w3-round-large" src="http://alannajoanne.com/alannajoanne.assets/images/halloween-portrait.JPG">
+  <img class="w3-round-large" src="http://alannajoanne.com/alannajoanne.assets/images/halloween-portrait.JPG">
 </a></center> 
  
 <br>
