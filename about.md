@@ -5,7 +5,7 @@ permalink: /about
 excerpt: 'Alanna Joanne - Creative Collaborator & Digital Producer. Contact me: collaborate@alannajoanne.com'
 author: 'Alanna Joanne'
 authorTwitter: '@alanna_joanne'
-shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-shoots.jpg"
+shareImage: "http://alannajoanne.com/alannajoanne.assets/images/aj-selfportrait-some-where.JPG"
 ---
 
 <center><a href="http://alannajoanne.com/about">
@@ -18,14 +18,14 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-sho
 
 <br>
 
-<center style="font-family: Courier New; font-size: 25px; ">With a strong focus in the arts and creative industries, my mission is to provide consulting in a way that is meaningful, collaborative, and unique.</center>
+<center style="font-family: Courier New; font-size: 25px; ">MEDIA & COMMUNICATIONS MANAGER <br> With a strong focus in the arts and creative industries, my mission is to provide my services in a way that is meaningful, collaborative, and unique.</center>
 
 <br>
 <div class="poem">
  <p>
 <center><b>My Services Include:</b></center>
-<center>Editing <b>|</b> Copyediting <b>|</b> Creative Copywriting</center>  
-<center>Social Media <b>|</b> Website Management <b>|</b> Junior UX Design</center>
+<center>Editing <b>|</b> Copyediting <b>|</b> Creative Copywriting</center>
+<center>Media Relations <b>|</b> Social Media <b>|</b> Website Design & Management</center> 
 <center>Research <b>|</b> Ghost Writing</center>
 <br>
 <center><b>Projects In:</b></center>  
@@ -38,7 +38,7 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-sho
 
 <br>
   
-#### <center>CURRENTLY COLLABORATING WITH</center>
+#### <center>CURRENTLY WITH</center>
 
 <center><a href="https://twitter.com/edwardburtynsky">Edward Burtynsky</a></center>
 <center><a href="https://twitter.com/anthropocene">The Anthropocene Project</a></center>
