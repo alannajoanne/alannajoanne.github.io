@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Body Language"
+title:  "Plants or Planets"
 date:   2019-08-16 09:20:51 -0500
 categories:  poems
 author: "Alanna Joanne" 
@@ -9,11 +9,6 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/body-language.jp
 ---
 
 <div class="poem">
-  <p>
-*BODY LANGUAGE*
-<br>
-</p>
-
 <P>
 There are moments
 <br>
@@ -55,4 +50,3 @@ and stigmas.
 <p>
 || alanna joanne
 </p>
-</div>
