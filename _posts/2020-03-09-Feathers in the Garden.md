@@ -24,6 +24,8 @@ A book of poetry by Alanna Joanne
 4/26 copies left!
 <br>
 <br>
+$20.00
+<br>
 <a href="mailto:info@alannajoanne.com">BUY ONE NOW</a>
 </p>
 </div>
