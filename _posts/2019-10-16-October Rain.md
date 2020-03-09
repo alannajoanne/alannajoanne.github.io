@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "October Rain"
-date:   2019-08-16 09:20:51 -0500
+date:   2019-10-16 09:20:51 -0500
 categories:  poems
 author: "Alanna Joanne" 
 authorTwitter: "@alanna_joanne"
