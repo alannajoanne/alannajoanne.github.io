@@ -9,13 +9,14 @@
 title: Alanna Joanne
 email: info@alannajoanne.com
 description: > # this means to ignore newlines until "baseurl:"
-  Creative Collaborator//Poet//Producer  
+  Creator//Poet//Media & Communications 
 baseurl:  # the subpath of your site, e.g. /blog
 url: "http://alannajoanne.com" # the base hostname & protocol for your site
 twitter_username: alanna_joanne  
 github_username:  alannajoanne  
 about: http://alannajoanne.com/about
-shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne-shoots.jpg"
+books: http://alannajoanne.com/books
+shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alanna-joanne-and-cuthbert-lovegood.JPG"
 contactEmail: info@alannajoanne.com
 
 # Build settings
