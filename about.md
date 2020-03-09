@@ -8,7 +8,7 @@ authorTwitter: '@alanna_joanne'
 shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alanna-joanne-and-cuthbert-lovegood.JPG"
 ---
 
-<center style="font-family: Courier New; font-size: 25px; ">MEDIA & COMMUNICATIONS MANAGER</center>
+<center style="font-family: Courier New; font-size: 30px; ">MEDIA & COMMUNICATIONS MANAGER</center>
 
 <br>
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
