@@ -48,6 +48,8 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alanna-joanne-an
 <center style="font-family: Courier New; font-size: 20px;"><a href="https://twitter.com/anthropocene">The Anthropocene Project</a></center>
 
 <br>
+<center> ~ </center>
+<br>
 
 <center style="font-family: Courier New; font-size: 25px;">Past Collaborations</center> 
 
@@ -59,13 +61,17 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alanna-joanne-an
 <center style="font-family: Courier New; font-size: 20px;"><a href="http://shootsofficial.com/">Shoots</a></center>
 
 <br>
+<center> ~ </center>
+<br>
 
-<center style="font-family: Courier New; font-size: 30px;">Presentations</center>
+<center style="font-family: Courier New; font-size: 25px;">Presentations</center>
 
-<center style= "font-family: Courier New; font-size: 20px; color: #111;">March 2018 <b>//</b> Guest Lecture – Social Media: Storytelling & The Truth Revolution at Ryerson University's School of Image Arts </center>
-<center style= "font-family: Courier New; font-size: 20px; color: #111;"> April 2017 <b>//</b> Guest Lecture – Social Media, Marketing & Self Promotion for 4th Year Students at Ryerson University's School of Image Arts</center>
+<center style= "font-family: Courier New; font-size: 20px;">March 2018 <b>//</b> Guest Lecture – Social Media: Storytelling & The Truth Revolution at Ryerson University's School of Image Arts </center>
+<center style= "font-family: Courier New; font-size: 20px;"> April 2017 <b>//</b> Guest Lecture – Social Media, Marketing & Self Promotion for 4th Year Students at Ryerson University's School of Image Arts</center>
 
-<br> 
+<br>
+<center> ~ </center>
+<br>
 
 <center style= "font-family: Courier New; font-size: 18px;"><em>Interested in a collaboration? Let's chat!</em></center> 
 <center style= "font-family: Courier New; font-size: 18px;">💌  <a href="mailto:collaborate@alannajoanne.com">collaborate@alannajoanne.com</a></center>
