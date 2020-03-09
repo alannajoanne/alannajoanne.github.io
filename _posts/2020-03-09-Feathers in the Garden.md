@@ -3,6 +3,7 @@ layout: post
 title:  "Feathers in the Garden, Vol. I"
 date:   2020-03-09 09:20:51 -0500
 categories:  poems
+excerpt: 'Feathers in the Garden, Vol. I, a book of poetry by Alanna Joanne'
 author: "Alanna Joanne" 
 authorTwitter: "@alanna_joanne"
 shareImage: "https://alannajoanne.com/alannajoanne.assets/images/COVER_Feathers-in-the-Garden_Vol-1_Alanna-Joanne.jpg"
