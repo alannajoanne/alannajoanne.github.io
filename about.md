@@ -5,7 +5,7 @@ permalink: /about
 excerpt: 'Alanna Joanne - Creative Collaborator & Digital Producer. Contact me: collaborate@alannajoanne.com'
 author: 'Alanna Joanne'
 authorTwitter: '@alanna_joanne'
-shareImage: "http://alannajoanne.com/alannajoanne.assets/images/halloween-portrait.JPG"
+shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alanna-joanne-and-cuthbert-lovegood.JPG"
 ---
 
 <center style="font-family: Courier New; font-size: 25px; ">MEDIA & COMMUNICATIONS MANAGER</center>
@@ -13,7 +13,7 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/halloween-portra
 <br>
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <center><a href="http://alannajoanne.com/about">
-  <img class="w3-round-large" src="http://alannajoanne.com/alannajoanne.assets/images/halloween-portrait.JPG">
+  <img class="w3-round-large" src="http://alannajoanne.com/alannajoanne.assets/images/alanna-joanne-and-cuthbert-lovegood.JPG">
 </a></center> 
  
 <br>
