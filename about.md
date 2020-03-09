@@ -2,7 +2,7 @@
 layout: page
 title:  
 permalink: /about
-excerpt: 'Alanna Joanne - Creative Collaborator & Digital Producer. Contact me: collaborate@alannajoanne.com'
+excerpt: 'Alanna Joanne - Creator, Poet, Marketing & Communications. Contact me: collaborate@alannajoanne.com'
 author: 'Alanna Joanne'
 authorTwitter: '@alanna_joanne'
 shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alanna-joanne-and-cuthbert-lovegood.JPG"

@@ -22,5 +22,5 @@ contactEmail: info@alannajoanne.com
 # Build settings
 markdown: kramdown
 excerpt_separator: <!--more-->
-exclude: ['node_modules', 'assets/css/main.scss', 'gulpfile.js', 'README.md', 'webpack.config.js']
+exclude: ['node_modules', 'assets/css/main.scss', 'gulpfile.js', 'README.md', 'webpack.config.js', '_how-to.json']
  

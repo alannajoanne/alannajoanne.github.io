@@ -6,6 +6,7 @@ categories:  poems
 author: "Alanna Joanne" 
 authorTwitter: "@alanna_joanne"
 shareImage: ""
+shareImage: ""
 ---
 
 <div class="poem">
