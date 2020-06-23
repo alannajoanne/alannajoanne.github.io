@@ -2,7 +2,8 @@
   "name": "alannajoanne",
   "version": "0.0.0",
   "dependencies": {
-    "gulp-cli": "^2.0.1"
+    "gulp-cli": "^2.0.1",
+    "gulp-update": "0.0.2"
   },
   "devDependencies": {
     "babel-core": "^6.5.1",
