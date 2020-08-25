@@ -22,7 +22,6 @@ A book of poetry by Alanna Joanne
 <br>
 SOLD OUT
 <br>
-</div>
 
 <!--more-->
 
