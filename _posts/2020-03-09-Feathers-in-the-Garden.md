@@ -20,13 +20,8 @@ A book of poetry by Alanna Joanne
 <p>
 1st Edition
 <br>
-4/26 copies left!
+SOLD OUT
 <br>
-<br>
-$20.00
-<br>
-<a href="mailto:info@alannajoanne.com">BUY ONE NOW</a>
-</p>
 </div>
 
 <!--more-->
