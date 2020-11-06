@@ -28,12 +28,12 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne_aug
 <div class="poem">
  <p>
 <center><b>FOUNDER</b></center>
-<center><em>Knitting Neighbourhoods</em></center>
+<center><em><b>Knitting Neighbourhoods</b></em></center>
 <center>Stouffville, ON</center> 
 <center><a href="https://www.knittingneighbourhoods.ca/">www.knittingneighbourhoods.ca</a></center>
 <br>
 <center><b>SECRETARY, BOARD OF DIRECTORS</b></center>  
-<center><em>Hummingbird Hub</em></center>
+<center><em><b>Hummingbird Hub</b></em></center>
 <center>Stouffville, ON</center>
 <center><a href="https://www.hummingbirdhub.org/">www.hummingbirdhub.org</a></center>
 <br>
@@ -64,7 +64,7 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne_aug
 <center> ~ </center>
 <br>
 
-<center style="font-family: Courier New; font-size: 25px;">PAST/center> 
+<center style="font-family: Courier New; font-size: 25px;">PAST</center> 
 
 <center style="font-family: Courier New; font-size: 20px;">Jason Hargrove +</center>
 <center style="font-family: Courier New; font-size: 20px;">Familiar A.I.</center>
