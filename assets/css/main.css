@@ -979,7 +979,7 @@ a {
   color: #111;
   text-decoration: none; }
   a:visited {
-    color: black; }
+    color: #111; }
   a:hover {
     color: #999;
     text-decoration: underline; }
