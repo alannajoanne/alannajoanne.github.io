@@ -979,7 +979,8 @@ a {
   color: #111;
   text-decoration: none; }
   a:visited {
-    color: #111; }
+    color: #111;
+    text-decoration: none; }
   a:hover {
     color: #999;
     text-decoration: underline; }
@@ -1077,7 +1078,7 @@ pre {
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
-    color: #999;
+    color: #111;
     line-height: 1.8; }
     .site-nav .page-link:not(:last-child) {
       margin-right: 20px; }
@@ -1108,10 +1109,12 @@ pre {
         display: none; }
       .site-nav:hover .trigger {
         display: block;
-        padding-bottom: 5px; }
+        padding-bottom: 5px;
+        color: #111; }
       .site-nav .page-link {
         display: block;
         padding: 5px 10px;
+        color: #111;
         margin-left: 20px; }
         .site-nav .page-link:not(:last-child) {
           margin-right: 0; } }
