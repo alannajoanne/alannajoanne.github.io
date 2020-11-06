@@ -33,7 +33,7 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: $brand-color;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the last one
@@ -78,11 +78,13 @@
         &:hover .trigger {
             display: block;
             padding-bottom: 5px;
+            color: $brand-color;
         }
 
         .page-link {
             display: block;
             padding: 5px 10px;
+            color: $brand-color;
 
             &:not(:last-child) {
                 margin-right: 0;
