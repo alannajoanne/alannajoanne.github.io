@@ -16,7 +16,7 @@ shareImage: ""
 </p>  
 <br>
 <p>
-  Launched in October 2020, <em>Knitting Neighbourhoods</em> is a community-focused initiative focused on engaging people during dark times, providing creative projects with purpose to support our most vulnerable 🧶
+  Launched in October 2020, <em>Knitting Neighbourhoods</em> is a community-based initiative focused on engaging people during dark times, providing creative projects with purpose to support our most vulnerable. Knitting neighbourhoods, one ball of yarn at a time 🧶
 </p>
 <p>
   <a href="https://alannajoanne.com/alannajoanne.assets/images/KnittingNeighbourhoods_Logo_Rectangle-Medium-Colour.jpg" target="_blank"><img class="img-responsive" class="w3-round-large" src="https://alannajoanne.com/alannajoanne.assets/iimages/KnittingNeighbourhoods_Logo_Rectangle-Medium-Colour.jpg" alt="Knitting Neighbourhoods Horizontal Logo, Colour"></a>
