@@ -19,13 +19,13 @@ shareImage: ""
   Launched in October 2020, <em>Knitting Neighbourhoods</em> is a community-focused initiative focused on engaging people during dark times, providing creative projects with purpose to support our most vulnerable 🧶
 </p>
 <p>
-  <a href="https://alannajoanne.com/alannajoanne.assets/images/KnittingNeighbourhoods_Logo_Rectangle Medium (Colour).png" target="_blank"><img class="img-responsive" class="w3-round-large" src="https://alannajoanne.com/alannajoanne.assets/images/KnittingNeighbourhoods_Logo_Rectangle Medium (Colour).pngimages/COVER_Feathers-in-the-Garden_Vol-1_Alanna-Joanne.jpg" alt="Knitting Neighbourhoods Horizontal Logo"></a>
+  <a href="https://alannajoanne.com/alannajoanne.assets/images/KnittingNeighbourhoods_Logo_Rectangle Medium (Colour).png" target="_blank"><img class="img-responsive" class="w3-round-large" src="https://alannajoanne.com/alannajoanne.assets/images/KnittingNeighbourhoods_Logo_Rectangle Medium (Colour).png" alt="Knitting Neighbourhoods Horizontal Logo"></a>
 </p>
 <br>
 <p>
 Follow <a href="https://www.instagram.com/knittingneighbourhoods/">@knittingneighbourhoods</a> for the latest updates.
 </P>
 <p>
-<a href="https://www.knittingneighbourhoods.ca/">www.knittingneighbourhoods.ca/</a>
+<a href="https://www.knittingneighbourhoods.ca">www.knittingneighbourhoods.ca/</a>
 </p>
 </div>
