@@ -23,9 +23,9 @@ shareImage: ""
 </p>
 <br>
 <p>
-Follow <a href="https://www.instagram.com/knittingneighbourhoods/" color="$brand-color">@knittingneighbourhoods</a> for the latest updates.
+Follow <a href="https://www.instagram.com/knittingneighbourhoods/" color="#111">@knittingneighbourhoods</a> for the latest updates.
 </P>
 <p>
-<a href="https://www.knittingneighbourhoods.ca" color=$brand-color>www.knittingneighbourhoods.ca</a>
+<a href="https://www.knittingneighbourhoods.ca" color="#111">www.knittingneighbourhoods.ca</a>
 </p>
 </div>
