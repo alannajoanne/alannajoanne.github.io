@@ -19,13 +19,13 @@ shareImage: ""
   Launched in October 2020, <em>Knitting Neighbourhoods</em> is a community-based initiative focused on engaging people during dark times, providing creative projects with purpose to support our most vulnerable. Knitting neighbourhoods, one ball of yarn at a time 🧶
 </p>
 <p>
-  <a href="https://alannajoanne.com/alannajoanne.assets/images/KnittingNeighbourhoods_Logo_Rectangle-Medium-Colour.jpg" target="_blank"><img class="img-responsive" class="w3-round-large" src="https://alannajoanne.com/alannajoanne.assets/iimages/KnittingNeighbourhoods_Logo_Rectangle-Medium-Colour.jpg" alt="Knitting Neighbourhoods Horizontal Logo, Colour"></a>
+  <a href="https://alannajoanne.com/alannajoanne.assets/images/KnittingNeighbourhoods_Logo_Rectangle-Medium-Colour.jpg" target="_blank"><img class="img-responsive" class="w3-round-large" src="https://alannajoanne.com/alannajoanne.assets/images/KnittingNeighbourhoods_Logo_Rectangle-Medium-Colour.jpg" alt="Knitting Neighbourhoods Horizontal Logo, Colour"></a>
 </p>
 <br>
 <p>
-Follow <a href="https://www.instagram.com/knittingneighbourhoods/">@knittingneighbourhoods</a> for the latest updates.
+Follow <a href="https://www.instagram.com/knittingneighbourhoods/" color="$brand-color">@knittingneighbourhoods</a> for the latest updates.
 </P>
 <p>
-<a href="https://www.knittingneighbourhoods.ca">www.knittingneighbourhoods.ca</a>
+<a href="https://www.knittingneighbourhoods.ca" color=$brand-color>www.knittingneighbourhoods.ca</a>
 </p>
 </div>
