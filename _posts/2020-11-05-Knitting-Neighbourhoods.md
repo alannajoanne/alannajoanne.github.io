@@ -25,4 +25,7 @@ shareImage: ""
 <p>
 Follow <a href="https://www.instagram.com/knittingneighbourhoods/">@knittingneighbourhoods</a> for the latest updates.
 </P>
+<p>
+<a href="https://www.knittingneighbourhoods.ca/">www.knittingneighbourhoods.ca/</a>
+</p>
 </div>
