@@ -32,11 +32,6 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne_aug
 <center>Stouffville, ON</center> 
 <center><a href="https://www.knittingneighbourhoods.ca/">www.knittingneighbourhoods.ca</a></center>
 <br>
-<center><b>SECRETARY, BOARD OF DIRECTORS</b></center>  
-<center><em><b>Hummingbird Hub</b></em></center>
-<center>Stouffville, ON</center>
-<center><a href="https://www.hummingbirdhub.org/">www.hummingbirdhub.org</a></center>
-<br>
 </p>
 </div>
 
@@ -66,6 +61,7 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne_aug
 
 <center style="font-family: Courier New; font-size: 25px;">PAST</center> 
 
+<center style="font-family: Courier New; font-size: 20px;">Secretary of the Board, Hummingbird Hub</center>
 <center style="font-family: Courier New; font-size: 20px;">Jason Hargrove +</center>
 <center style="font-family: Courier New; font-size: 20px;">Familiar A.I.</center>
 <center style="font-family: Courier New; font-size: 20px;"><a href="https://twitter.com/think2thing">Think2Thing</a></center>
