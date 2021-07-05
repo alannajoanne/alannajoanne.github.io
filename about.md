@@ -78,7 +78,7 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne_aug
 <center> ~ </center>
 <br>
 
-<center style="font-family: Courier New; font-size: 25px;">Presentations</center>
+<center style="font-family: Courier New; font-size: 25px;">PRESENTATIONS</center>
 
 <center style= "font-family: Courier New; font-size: 20px;">March 2018 <b>//</b> Guest Lecture – Social Media: Storytelling & The Truth Revolution at Ryerson University's School of Image Arts </center>
 <center style= "font-family: Courier New; font-size: 20px;"> April 2017 <b>//</b> Guest Lecture – Social Media, Marketing & Self Promotion for 4th Year Students at Ryerson University's School of Image Arts</center>
@@ -90,7 +90,5 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne_aug
 <center style= "font-family: Courier New; font-size: 18px;"><em>Interested in a collaboration? Let's chat!</em></center> 
 <center style= "font-family: Courier New; font-size: 18px;">💌  <a href="mailto:collaborate@alannajoanne.com">collaborate@alannajoanne.com</a></center>
 <br>
-
-***
 
 <br>
