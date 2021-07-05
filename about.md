@@ -52,8 +52,9 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne_aug
   
 <center style="font-family: Courier New; font-size: 30px;">PRESENT</center>
 
-<center style="font-family: Courier New; font-size: 20px;"><a href="https://twitter.com/edwardburtynsky">Edward Burtynsky</a></center>
-<center style="font-family: Courier New; font-size: 20px;"><a href="https://twitter.com/anthropocene">The Anthropocene Project</a></center>
+<center style="font-family: Courier New; font-size: 20px;"><a href="https://www.edwardburtynsky.com/">Edward Burtynsky</a></center>
+<center style="font-family: Courier New; font-size: 20px;"><a href="https://luminatofestival.com/event/edward-burtynsky-in-the-wake-of-progress/">In the Wake of Progress</a></center>
+center style="font-family: Courier New; font-size: 20px;"><a href="https://theanthropocene.org/">The Anthropocene Project</a></center>
 
 <br>
 <center> ~ </center>
