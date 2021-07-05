@@ -8,7 +8,9 @@ authorTwitter: '@alanna_joanne'
 shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne_august7-selfportrait.jpg"
 ---
 
-<center style="font-family: Courier New; font-size: 30px; ">MEDIA & COMMUNICATIONS MANAGER // DIGITAL CREATOR</center>
+<center style="font-family: Courier New; font-size: 30px; ">MEDIA & COMMUNICATIONS MANAGER</center>
+<br>
+<center style="font-family: Courier New; font-size: 30px; ">DIGITAL CREATOR</center>
 
 <br>
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -54,7 +56,7 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne_aug
 
 <center style="font-family: Courier New; font-size: 20px;"><a href="https://www.edwardburtynsky.com/">Edward Burtynsky</a></center>
 <center style="font-family: Courier New; font-size: 20px;"><a href="https://luminatofestival.com/event/edward-burtynsky-in-the-wake-of-progress/">In the Wake of Progress</a></center>
-center style="font-family: Courier New; font-size: 20px;"><a href="https://theanthropocene.org/">The Anthropocene Project</a></center>
+<center style="font-family: Courier New; font-size: 20px;"><a href="https://theanthropocene.org/">The Anthropocene Project</a></center>
 
 <br>
 <center> ~ </center>
