@@ -40,8 +40,6 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne_aug
 </div>
 
 <br>
-
-<br>
 <div class="poem">
  <p>
 <center><b>SERVICES FOR HIRE INCLUDE</b></center>
