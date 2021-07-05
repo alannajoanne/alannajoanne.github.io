@@ -9,7 +9,7 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne_aug
 ---
 
 <center style="font-family: Courier New; font-size: 30px; ">MEDIA & COMMUNICATIONS MANAGER</center>
-<br>
+<p>
 <center style="font-family: Courier New; font-size: 30px; ">DIGITAL CREATOR</center>
 
 <br>
