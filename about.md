@@ -11,13 +11,16 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne_aug
 <center style="font-family: Courier New; font-size: 30px; ">MEDIA & COMMUNICATIONS MANAGER</center>
 <p>
 <center style="font-family: Courier New; font-size: 30px; ">DIGITAL CREATOR</center>
+</p>
 
 <br>
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <center><a href="http://alannajoanne.com/about">
   <img class="w3-round-large" src="http://alannajoanne.com/alannajoanne.assets/images/IMG_5554 2.JPG"> 
 </a></center> 
+<p>
  <center style="font-family: Courier New; font-size: 10px; ">Still from my Auditioning for GLOW Series on YouTube, March 2021</center>
+</p>
 <br>
 
 ***
