@@ -15,7 +15,7 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne_aug
 <br>
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <center><a href="http://alannajoanne.com/about">
-  <img class="w3-round-large" src="http://alannajoanne.com/alannajoanne.assets/images/alannajoanne_august7-selfportrait.jpg">
+  <img class="w3-round-large" src="http://alannajoanne.com/alannajoanne.assets/images/IMG_5554 2.JPG">
 </a></center> 
  
 <br>
