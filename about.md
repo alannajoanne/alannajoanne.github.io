@@ -25,7 +25,7 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne_aug
 <br>
 <br>
 
-<center style="font-family: Courier New; font-size: 20px; ">Passionate about the intersection of art, environmental & social justice. Spending Year 30 immersed in growth & discovery.</center>
+<center style="font-family: Courier New; font-size: 20px; ">Passionate about the intersection of art, environmental & social justice. Spending Year 31 immersed in growth & discovery.</center>
 
 <br>
 <div class="poem">
