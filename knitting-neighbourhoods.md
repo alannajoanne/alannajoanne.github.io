@@ -10,13 +10,13 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/IMG_3019.jpeg"
 
 ---
 
-<center style="font-family: Courier New; font-size: 25px; ">KNITTING NEIGHBOURHOODS</center>
+<center style="font-family: Courier New; font-size: 25px; "><b>KNITTING NEIGHBOURHOODS</b></center>
 <center style="font-family: Courier New; font-size: 18px; "><em>A Community Initiative</em></center>
 
 <br>
 
-<center style="font-family: Courier New; font-size: 16px; ">DONATIONS TO DATE</center>
-<center style="font-family: Courier New; font-size: 16px; ">560 Items // 2 Boxes of Yarn</center>
+<center style="font-family: Courier New; font-size: 16px; "><b>DONATIONS TO DATE</b></center>
+<center style="font-family: Courier New; font-size: 16px; "><b>560 Items // 2 Boxes of Yarn</b></center>
 
 <br>
 
