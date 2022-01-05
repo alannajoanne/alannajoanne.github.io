@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "On Grief and Ghosts"
-date:   2020-11-24 09:20:51 -0500
+date:   2022-01-05 09:20:51 -0500
 categories:  poems
 author: "Alanna Joanne" 
 authorTwitter: "@alanna_joanne"
@@ -13,6 +13,7 @@ shareImage: ""
 <p>
 *ON GRIEF AND GHOSTS*
 <br>
+<em>written 24/11/2021</em>
 </p>  
 <P>
 In this clan

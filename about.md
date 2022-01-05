@@ -76,10 +76,10 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne_aug
 <center> ~ </center>
 <br>
 
-<center style="font-family: Courier New; font-size: 20px;">PRESENTATIONS</center>
+<center style="font-family: Courier New; font-size: 18px;">PRESENTATIONS</center>
 
-<center style= "font-family: Courier New; font-size: 18px;">March 2018 <b>//</b> Guest Lecture – Social Media: Storytelling & The Truth Revolution at Ryerson University's School of Image Arts </center>
-<center style= "font-family: Courier New; font-size: 18px;"> April 2017 <b>//</b> Guest Lecture – Social Media, Marketing & Self Promotion for 4th Year Students at Ryerson University's School of Image Arts</center>
+<center style= "font-family: Courier New; font-size: 16px;">March 2018 <b>//</b> Guest Lecture – Social Media: Storytelling & The Truth Revolution at Ryerson University's School of Image Arts </center>
+<center style= "font-family: Courier New; font-size: 16px;"> April 2017 <b>//</b> Guest Lecture – Social Media, Marketing & Self Promotion for 4th Year Students at Ryerson University's School of Image Arts</center>
 
 <br>
 <center> ~ </center>
