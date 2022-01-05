@@ -84,9 +84,6 @@ We're also sending big thanks out to those who've contributed with material dona
 <br>
 – Karen O'Connor (yarn)
 </p>
-<p>
-  <a href="https://alannajoanne.com/alannajoanne.assets/images/KN Colour Square-600px.png" target="_blank"><img class="img-responsive" class="w3-round-large" src="https://alannajoanne.com/alannajoanne.assets/images/KN Colour Square-600px.png" alt="Knitting Neighbourhoods Square Social, Colour"></a>
-</p>
 <br>
 </div>
 
@@ -103,7 +100,7 @@ We're also sending big thanks out to those who've contributed with material dona
 
 <p> 
   <center>
-  <a href="https://alannajoanne.com/alannajoanne.assets/images/KnittingNeighbourhoods_Logo_Rectangle-Small-600px-Colour.png" target="_blank"><img class="img-responsive" class="w3-round-small" src="https://alannajoanne.com/alannajoanne.assets/images/KnittingNeighbourhoods_Logo_Rectangle-Small-600px-Colour.png" alt="Knitting Neighbourhoods Horizontal Logo Small, Colour"></a>
+  <a href="https://alannajoanne.com/alannajoanne.assets/images/KnittingNeighbourhoods_Logo_Rectangle-Small-Colour.png" target="_blank"><img class="img-responsive" class="w3-round-small" src="https://alannajoanne.com/alannajoanne.assets/images/KnittingNeighbourhoods_Logo_Rectangle-Small-Colour.png" alt="Knitting Neighbourhoods Horizontal Logo Small, Colour"></a>
 </center>
 </p>
 
