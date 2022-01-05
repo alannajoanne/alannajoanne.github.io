@@ -46,7 +46,7 @@ Along with the sweater weather, the struggles of the COVID-19 pandemic are still
 Knitting Neighbourhoods seeks to address both the issues of loneliness, isolation and boredom amongst our residents, and the struggles of those most vulnerable in our community, including anyone struggling with poverty and homelessness, by giving people a way to stay connected, feel empowered and inspired, while also providing support to the community in a hands-on, yet safe way!
 <br>
 <br>
-Since launching in October 2020, we have donated 310 knitted and crocheted items, and two boxes of yarn to those in need within our community and beyond.
+Since launching in October 2020, we have donated over 560 knitted and crocheted items, and two boxes of yarn to those in need within our community and beyond.
 </p>
 </div>
 
