@@ -32,7 +32,7 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/IMG_3019.jpeg"
 <b>*ABOUT*</b>
 <br>
 <br>
-<em>Knitting neighbourhoods together, one ball of yarn at a time.</em> 🧶
+<em>Knitting neighbourhoods together, one ball of yarn at a time.</em>
 <br>
 <br>
 Inspired by community-centric and inter-generational traditions, Knitting Neighbourhoods was founded on the idea of engaging individuals throughout the community during dark times, and giving them creative projects with purpose.
@@ -58,13 +58,14 @@ Since launching in October 2020, we have donated over 560 knitted and crocheted 
 
 <div class="poem">
 <p>
-*THANK YOU*
+<b>*THANK YOU*</b>
 <br>
 </p>  
 We couldn't do this without you! 🧶
 <br>
 <p>
 Thank you so much to all of our Active Crafters who came forward so quickly, ready and willing to participate in this initiative. I cannot wait to get your generously donated creations into the hands of those most in need in our community.
+<br>
 <br>
 We're also sending big thanks out to those who've contributed with material donations to help keep us going:
 <br>
@@ -87,7 +88,6 @@ We're also sending big thanks out to those who've contributed with material dona
   <a href="https://alannajoanne.com/alannajoanne.assets/images/KN Colour Square.png" target="_blank"><img class="img-responsive" class="w3-round-large" src="https://alannajoanne.com/alannajoanne.assets/images/KN Colour Square.png" alt="Knitting Neighbourhoods Square Social, Colour"></a>
 </p>
 <br>
-</p>
 </div>
 
 
@@ -95,10 +95,11 @@ We're also sending big thanks out to those who've contributed with material dona
 <center> ~ ~ ~</center>
 <br>
 
-<center style= "font-family: Courier New; font-size: 14px;">Contact Us to Get Involved* 💌<a href="mailto:knittingneighbourhoods@alannajoanne.com">knittingneighbourhoods@alannajoanne.com</a></center>
-<center style= "font-family: Courier New; font-size: 12px;">Interested in participating in the <em>Knitting Neighbourhoods</em>initiative but not a crafter? Consider donating yarn, and/or other materials (knitting needles, crochet hooks, patterns, safety pins, etc) to help keep us going!<a href="mailto:knittingneighbourhoods@alannajoanne.com">knittingneighbourhoods@alannajoanne.com</a></center>
+<center style= "font-family: Courier New; font-size: 14px;">Contact Us to Get Involved* 💌 <a href="mailto:knittingneighbourhoods@alannajoanne.com">knittingneighbourhoods@alannajoanne.com</a></center>
 <br>
-<center style= "font-family: Courier New; font-size: 14px;">FOLLOW<a href="https://www.instagram.com/knittingneighbourhoods/">@KNITTINGNEIGHBOURHOODS</a> FOR THE LATEST UPDATES</center>
+<center style= "font-family: Courier New; font-size: 12px;">*Interested in participating in the <em>Knitting Neighbourhoods</em>initiative but not a crafter? Consider donating yarn, and/or other materials (knitting needles, crochet hooks, patterns, safety pins, etc) to help keep us going!</center>
+<br>
+<center style= "font-family: Courier New; font-size: 14px;">FOLLOW<a href="https://www.instagram.com/knittingneighbourhoods/"> @KNITTINGNEIGHBOURHOODS</a> FOR THE LATEST UPDATES</center>
 
 <p>
   <center>
