@@ -65,10 +65,10 @@ Since launching in October 2020, we have donated over 560 knitted and crocheted 
 </p>
 
 <center style= "font-family: Courier New; font-size: 18px;">Handmade with Love in Stouffville, Ontario</center> 
-<center style= "font-family: Courier New; font-size: 12px;"><em>Knitting Neighbourhoods></em> honours and acknowledges that the land on which we reside is the traditional territory of the Haudenosaunee, Anishinabewaki, Mississaugas of the Credit First Nation, and Mississauga Nations; land which is encompassed by the Williams Treaties.</center> 
+<center style= "font-family: Courier New; font-size: 14px;"><em>Knitting Neighbourhoods</em> honours and acknowledges that the land on which we reside is the traditional territory of the Haudenosaunee, Anishinabewaki, Mississaugas of the Credit First Nation, and Mississauga Nations; land which is encompassed by the Williams Treaties.</center> 
 <br/>
 
-<center style= "font-family: Courier New; font-size: 10px;">Contact Us 💌  <a href="mailto:knittingneighbourhoods@alannajoanne.com">knittingneighbourhoods@alannajoanne.com</a></center>
+<center style= "font-family: Courier New; font-size: 12px;">Contact Us 💌<a href="mailto:knittingneighbourhoods@alannajoanne.com">knittingneighbourhoods@alannajoanne.com</a></center>
 <br>
 
 <br>
