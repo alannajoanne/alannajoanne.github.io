@@ -25,21 +25,26 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/IMG_3019.jpeg"
 </a></center> 
 <br>
 
-
 <br>
 <div class="poem">
  <p>
 <b>ABOUT</b>
+<br>
 
 <em>Knitting neighbourhoods together, one ball of yarn at a time.</em>
 <br>
+<br>
 Inspired by community-centric and inter-generational traditions, Knitting Neighbourhoods was founded on the idea of engaging individuals throughout the community during dark times, and giving them creative projects with purpose.
+<br>
 <br>
 Following an immensely successful first season (Oct 2020 - Feb 2021) we saw 209 items donated and two boxes of yarn. During our dormant seasons we received over 500 knitted and crocheted items that were laundered, tagged, and prepped for donation. Now we're entering our second season, the cold weather has officially returned and those most vulnerable in our community, including anyone struggling with poverty and homelessness, are most at risk.
 <br>
+<br>
 Along with the sweater weather, the struggles of the COVID-19 pandemic are still very much with us and so the crafting continues, as will our collection and distribution of donated yarn to keep our Crafters flush with materials! 
 <br>
+<br>
 Knitting Neighbourhoods seeks to address both the issues of loneliness, isolation and boredom amongst our residents, and the struggles of those most vulnerable in our community, including anyone struggling with poverty and homelessness, by giving people a way to stay connected, feel empowered and inspired, while also providing support to the community in a hands-on, yet safe way!
+<br>
 <br>
 Since launching in October 2020, we have donated 310 knitted and crocheted items, and two boxes of yarn to those in need within our community and beyond.
 </p>
