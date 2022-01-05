@@ -19,16 +19,17 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/IMG_3019.jpeg"
 <center style="font-family: Courier New; font-size: 16px; ">560 Items // 2 Boxes of Yarn</center>
 
 <br>
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<center><a href="http://alannajoanne.com/knitting-neighbourhoods">
-  <img class="w3-round-large" src="http://alannajoanne.com/alannajoanne.assets/images/IMG_3019.jpeg"> 
-</a></center> 
-<br>
+
+<p>
+  <center>
+  <a href="http://alannajoanne.com/alannajoanne.assets/images/IMG_3019.jpeg" target="_blank"><img class="img-responsive" class="w3-round-small" src="http://alannajoanne.com/alannajoanne.assets/images/IMG_3019.jpeg" alt="Knitting Neighbourhoods Basket of Yarn in Fallr"></a>
+</center>
+</p>
 
 <br>
 <div class="poem">
  <p>
-<b>ABOUT</b>
+<b style="font-size: 16px;">ABOUT</b>
 <br>
 
 <em>Knitting neighbourhoods together, one ball of yarn at a time.</em>
@@ -63,7 +64,7 @@ Since launching in October 2020, we have donated over 560 knitted and crocheted 
 </center>
 </p>
 
-<center style= "font-family: Courier New; font-size: 18px;">Handmade with Love in Stouffville, Ontario</em></center> 
+<center style= "font-family: Courier New; font-size: 18px;">Handmade with Love in Stouffville, Ontario</center> 
 <center style= "font-family: Courier New; font-size: 12px;"><em>Knitting Neighbourhoods></em> honours and acknowledges that the land on which we reside is the traditional territory of the Haudenosaunee, Anishinabewaki, Mississaugas of the Credit First Nation, and Mississauga Nations; land which is encompassed by the Williams Treaties.</center> 
 <br/>
 
