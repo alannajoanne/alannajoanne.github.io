@@ -29,7 +29,7 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/IMG_3019.jpeg"
 <br>
 <div class="poem">
  <p>
-<b style="font-size: 16px;">ABOUT</b>
+<b>ABOUT</b>
 <br>
 <br>
 <em>Knitting neighbourhoods together, one ball of yarn at a time.</em>
