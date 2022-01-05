@@ -54,12 +54,16 @@ Since launching in October 2020, we have donated over 560 knitted and crocheted 
 
 
 <br>
-<center> ~ </center>
+<center> ~ ~ ~</center>
+<br>
+
+<center style= "font-family: Courier New; font-size: 14px;">Contact Us to Get Involved* 💌<a href="mailto:knittingneighbourhoods@alannajoanne.com">knittingneighbourhoods@alannajoanne.com</a></center>
+<center style= "font-family: Courier New; font-size: 12px;">Interested in participating in the <em>Knitting Neighbourhoods</em>initiative but not a crafter? Consider donating yarn, and/or other materials (knitting needles, crochet hooks, patterns, safety pins, etc) to help keep us going!<a href="mailto:knittingneighbourhoods@alannajoanne.com">knittingneighbourhoods@alannajoanne.com</a></center>
 <br>
 
 <p>
   <center>
-  <a href="https://alannajoanne.com/alannajoanne.assets/images/KnittingNeighbourhoods_Logo_Rectangle-Small-Colour.jpg" target="_blank"><img class="img-responsive" class="w3-round-small" src="https://alannajoanne.com/alannajoanne.assets/images/KnittingNeighbourhoods_Logo_Rectangle-Medium-Colour.jpg" alt="Knitting Neighbourhoods Horizontal Logo, Colour"></a>
+  <a href="https://alannajoanne.com/alannajoanne.assets/images/KnittingNeighbourhoods_Logo_Rectangle-Small-Colour.png" target="_blank"><img class="img-responsive" class="w3-round-small" src="https://alannajoanne.com/alannajoanne.assets/images/KnittingNeighbourhoods_Logo_Rectangle-Small-Colour.png" alt="Knitting Neighbourhoods Horizontal Logo Small, Colour"></a>
 </center>
 </p>
 
@@ -67,7 +71,5 @@ Since launching in October 2020, we have donated over 560 knitted and crocheted 
 <center style= "font-family: Courier New; font-size: 14px;"><em>Knitting Neighbourhoods</em> honours and acknowledges that the land on which we reside is the traditional territory of the Haudenosaunee, Anishinabewaki, Mississaugas of the Credit First Nation, and Mississauga Nations; land which is encompassed by the Williams Treaties.</center> 
 <br/>
 
-<center style= "font-family: Courier New; font-size: 14px;">Contact Us 💌<a href="mailto:knittingneighbourhoods@alannajoanne.com">knittingneighbourhoods@alannajoanne.com</a></center>
-<br>
 
 <br>
