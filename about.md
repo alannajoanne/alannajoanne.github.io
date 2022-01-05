@@ -34,7 +34,7 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne_aug
 <center><b>FOUNDER</b></center>
 <center><em><b>Knitting Neighbourhoods</b></em></center>
 <center>Stouffville, ON</center> 
-<center><a href="https://www.knittingneighbourhoods.ca/">www.knittingneighbourhoods.ca</a></center>
+<center><a href="https://alannajoanne.com/knitting-neighbourhoods">www.knittingneighbourhoods.ca</a></center>
 <br>
 </p>
 </div>

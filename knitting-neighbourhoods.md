@@ -14,14 +14,37 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/IMG_3019.jpeg"
 <center style="font-family: Courier New; font-size: 18px; "><em>A Community Initiative</em></center>
 
 <br>
+
+<center style="font-family: Courier New; font-size: 16px; ">DONATIONS TO DATE</center>
+<center style="font-family: Courier New; font-size: 16px; ">560 Items // 2 Boxes of Yarn</center>
+
+<br>
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <center><a href="http://alannajoanne.com/knitting-neighbourhoods">
   <img class="w3-round-large" src="http://alannajoanne.com/alannajoanne.assets/images/IMG_3019.jpeg"> 
 </a></center> 
 <br>
-<p>
- <center style="font-family: Courier New; font-size: 10px; ">Still from my Auditioning for GLOW Series on YouTube, March 2021</center>
+
+
+<br>
+<div class="poem">
+ <p>
+<b>ABOUT</b>
+
+<em>Knitting neighbourhoods together, one ball of yarn at a time.</em>
+<br>
+Inspired by community-centric and inter-generational traditions, Knitting Neighbourhoods was founded on the idea of engaging individuals throughout the community during dark times, and giving them creative projects with purpose.
+<br>
+Following an immensely successful first season (Oct 2020 - Feb 2021) we saw 209 items donated and two boxes of yarn. During our dormant seasons we received over 500 knitted and crocheted items that were laundered, tagged, and prepped for donation. Now we're entering our second season, the cold weather has officially returned and those most vulnerable in our community, including anyone struggling with poverty and homelessness, are most at risk.
+<br>
+Along with the sweater weather, the struggles of the COVID-19 pandemic are still very much with us and so the crafting continues, as will our collection and distribution of donated yarn to keep our Crafters flush with materials! 
+<br>
+Knitting Neighbourhoods seeks to address both the issues of loneliness, isolation and boredom amongst our residents, and the struggles of those most vulnerable in our community, including anyone struggling with poverty and homelessness, by giving people a way to stay connected, feel empowered and inspired, while also providing support to the community in a hands-on, yet safe way!
+<br>
+Since launching in October 2020, we have donated 310 knitted and crocheted items, and two boxes of yarn to those in need within our community and beyond.
 </p>
+</div>
+
 
 <br>
 
