@@ -117,6 +117,6 @@ so demanding.
 </p>
 
 <br>
+<p>
 || alanna joanne
-<br>
-
+</p>
