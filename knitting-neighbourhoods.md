@@ -29,6 +29,12 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/IMG_3019.jpeg"
 <center> ~ </center>
 <br>
 
+<p>
+  <center>
+  <a href="https://alannajoanne.com/alannajoanne.assets/images/KnittingNeighbourhoods_Logo_Rectangle-Medium-Colour.jpg" target="_blank"><img class="img-responsive" class="w3-round-large" src="https://alannajoanne.com/alannajoanne.assets/images/KnittingNeighbourhoods_Logo_Rectangle-Medium-Colour.jpg" alt="Knitting Neighbourhoods Horizontal Logo, Colour"></a>
+</center>
+</p>
+
 <center style= "font-family: Courier New; font-size: 18px;">Handmade with Love in Stouffville, Ontario</em></center> 
 <center style= "font-family: Courier New; font-size: 12px;"><em>Knitting Neighbourhoods></em> honours and acknowledges that the land on which we reside is the traditional territory of the Haudenosaunee, Anishinabewaki, Mississaugas of the Credit First Nation, and Mississauga Nations; land which is encompassed by the Williams Treaties.</center> 
 <br/>
