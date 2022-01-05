@@ -52,41 +52,41 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne_aug
 
 <br>
   
-<center style="font-family: Courier New; font-size: 30px;">PRESENT</center>
+<center style="font-family: Courier New; font-size: 20px;">PRESENT</center>
 
-<center style="font-family: Courier New; font-size: 20px;"><a href="https://www.edwardburtynsky.com/">Edward Burtynsky</a></center>
-<center style="font-family: Courier New; font-size: 20px;"><a href="https://luminatofestival.com/event/edward-burtynsky-in-the-wake-of-progress/">In the Wake of Progress</a></center>
-<center style="font-family: Courier New; font-size: 20px;"><a href="https://theanthropocene.org/">The Anthropocene Project</a></center>
-
-<br>
-<center> ~ </center>
-<br>
-
-<center style="font-family: Courier New; font-size: 25px;">PAST</center> 
-
-<center style="font-family: Courier New; font-size: 20px;">Secretary of the Board, Hummingbird Hub</center>
-<center style="font-family: Courier New; font-size: 20px;">Jason Hargrove +</center>
-<center style="font-family: Courier New; font-size: 20px;">Familiar A.I.</center>
-<center style="font-family: Courier New; font-size: 20px;"><a href="https://twitter.com/think2thing">Think2Thing</a></center>
-<center style="font-family: Courier New; font-size: 20px;"><a href="http://be3dimensional.com/">Be3Dimensional</a></center>
-<center style="font-family: Courier New; font-size: 20px;"> <a href="http://ljubodrag-andric.com/">Ljubodrag Andric</a></center>
-<center style="font-family: Courier New; font-size: 20px;"><a href="http://shootsofficial.com/">Shoots</a></center>
+<center style="font-family: Courier New; font-size: 18px;"><a href="https://www.edwardburtynsky.com/">Edward Burtynsky</a></center>
+<center style="font-family: Courier New; font-size: 18px;"><a href="https://luminatofestival.com/event/edward-burtynsky-in-the-wake-of-progress/">In the Wake of Progress</a></center>
+<center style="font-family: Courier New; font-size: 18px;"><a href="https://theanthropocene.org/">The Anthropocene Project</a></center>
 
 <br>
 <center> ~ </center>
 <br>
 
-<center style="font-family: Courier New; font-size: 25px;">PRESENTATIONS</center>
+<center style="font-family: Courier New; font-size: 18px;">PAST</center> 
 
-<center style= "font-family: Courier New; font-size: 20px;">March 2018 <b>//</b> Guest Lecture – Social Media: Storytelling & The Truth Revolution at Ryerson University's School of Image Arts </center>
-<center style= "font-family: Courier New; font-size: 20px;"> April 2017 <b>//</b> Guest Lecture – Social Media, Marketing & Self Promotion for 4th Year Students at Ryerson University's School of Image Arts</center>
+<center style="font-family: Courier New; font-size: 16px;">Secretary of the Board, Hummingbird Hub</center>
+<center style="font-family: Courier New; font-size: 16px;">Jason Hargrove +</center>
+<center style="font-family: Courier New; font-size: 16px;">Familiar A.I.</center>
+<center style="font-family: Courier New; font-size: 16px;"><a href="https://twitter.com/think2thing">Think2Thing</a></center>
+<center style="font-family: Courier New; font-size: 16px;"><a href="http://be3dimensional.com/">Be3Dimensional</a></center>
+<center style="font-family: Courier New; font-size: 16px;"> <a href="http://ljubodrag-andric.com/">Ljubodrag Andric</a></center>
+<center style="font-family: Courier New; font-size: 16px;"><a href="http://shootsofficial.com/">Shoots</a></center>
 
 <br>
 <center> ~ </center>
 <br>
 
-<center style= "font-family: Courier New; font-size: 18px;"><em>Interested in a collaboration? Let's chat!</em></center> 
-<center style= "font-family: Courier New; font-size: 18px;">💌  <a href="mailto:collaborate@alannajoanne.com">collaborate@alannajoanne.com</a></center>
+<center style="font-family: Courier New; font-size: 20px;">PRESENTATIONS</center>
+
+<center style= "font-family: Courier New; font-size: 18px;">March 2018 <b>//</b> Guest Lecture – Social Media: Storytelling & The Truth Revolution at Ryerson University's School of Image Arts </center>
+<center style= "font-family: Courier New; font-size: 18px;"> April 2017 <b>//</b> Guest Lecture – Social Media, Marketing & Self Promotion for 4th Year Students at Ryerson University's School of Image Arts</center>
+
+<br>
+<center> ~ </center>
+<br>
+
+<center style= "font-family: Courier New; font-size: 16px;"><em>Interested in a collaboration? Let's chat!</em></center> 
+<center style= "font-family: Courier New; font-size: 16px;">💌  <a href="mailto:collaborate@alannajoanne.com">collaborate@alannajoanne.com</a></center>
 <br>
 
 <br>
