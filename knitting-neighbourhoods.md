@@ -59,7 +59,7 @@ Since launching in October 2020, we have donated 310 knitted and crocheted items
 
 <p>
   <center>
-  <a href="https://alannajoanne.com/alannajoanne.assets/images/KnittingNeighbourhoods_Logo_Rectangle-Medium-Colour.jpg" target="_blank"><img class="img-responsive" class="w3-round-large" src="https://alannajoanne.com/alannajoanne.assets/images/KnittingNeighbourhoods_Logo_Rectangle-Medium-Colour.jpg" alt="Knitting Neighbourhoods Horizontal Logo, Colour"></a>
+  <a href="https://alannajoanne.com/alannajoanne.assets/images/KnittingNeighbourhoods_Logo_Rectangle-Medium-Colour.jpg" target="_blank"><img class="img-responsive" class="w3-round-small" src="https://alannajoanne.com/alannajoanne.assets/images/KnittingNeighbourhoods_Logo_Rectangle-Medium-Colour.jpg" alt="Knitting Neighbourhoods Horizontal Logo, Colour"></a>
 </center>
 </p>
 
