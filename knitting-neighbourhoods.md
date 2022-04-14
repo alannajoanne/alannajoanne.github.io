@@ -16,7 +16,7 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/IMG_3019.jpeg"
 <br>
 
 <center style="font-family: Courier New; font-size: 16px; "><b>DONATIONS TO DATE</b></center>
-<center style="font-family: Courier New; font-size: 16px; "><b>560 Items // 2 Boxes of Yarn</b></center>
+<center style="font-family: Courier New; font-size: 16px; "><b>900 Items // 2 Boxes of Yarn</b></center>
 
 <br>
 
@@ -38,16 +38,16 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/IMG_3019.jpeg"
 Inspired by community-centric and inter-generational traditions, Knitting Neighbourhoods was founded on the idea of engaging individuals throughout the community during dark times, and giving them creative projects with purpose.
 <br>
 <br>
-Following an immensely successful first season (Oct 2020 - Feb 2021) we saw 209 items donated and two boxes of yarn. During our dormant seasons we received over 500 knitted and crocheted items that were laundered, tagged, and prepped for donation. Now we're entering our second season, the cold weather has officially returned and those most vulnerable in our community, including anyone struggling with poverty and homelessness, are most at risk.
+Following an immensely successful first season (Oct 2020 - Feb 2021) we saw 209 items donated and two boxes of yarn. During our dormant season, we received over 500 knitted and crocheted items that were laundered, tagged, and prepped for donation. As we exit our second season and head into Spring/Summer, I'm so pleased to report that we've been able to donate nearly 700 additional pieces. 
 <br>
 <br>
-Along with the sweater weather, the struggles of the COVID-19 pandemic are still very much with us and so the crafting continues, as will our collection and distribution of donated yarn to keep our Crafters flush with materials! 
+While sweater weather might be fading, the struggles of the COVID-19 pandemic are still very much with us and so the crafting continues, as will our collection and distribution of donated yarn to keep our Crafters flush with materials! We will continue our efforts through this next dormant season, in preparation for Fall 2022/Winter 2023.
 <br>
 <br>
-Knitting Neighbourhoods seeks to address both the issues of loneliness, isolation and boredom amongst our residents, and the struggles of those most vulnerable in our community, including anyone struggling with poverty and homelessness, by giving people a way to stay connected, feel empowered and inspired, while also providing support to the community in a hands-on, yet safe way!
+Knitting Neighbourhoods seeks to address both the issues of loneliness, isolation and boredom amongst our residents, and the challenges of those most vulnerable in our community, including anyone struggling with poverty and homelessness, by giving people a way to stay connected, feel empowered and inspired, while also providing support to the community in a hands-on, yet safe way!
 <br>
 <br>
-Since launching in October 2020, we have donated over 560 knitted and crocheted items, and two boxes of yarn to those in need within our community and beyond.
+Since launching in October 2020, we have donated approximately 900 knitted and crocheted items, and two boxes of yarn to those in need within our community and beyond.
 </p>
 </div>
 
@@ -63,8 +63,9 @@ Since launching in October 2020, we have donated over 560 knitted and crocheted 
 </p>  
 We couldn't do this without you! 🧶
 <br>
+<br>
 <p>
-Thank you so much to all of our Active Crafters who came forward so quickly, ready and willing to participate in this initiative. I cannot wait to get your generously donated creations into the hands of those most in need in our community.
+Thank you so much to all of our Active Crafters who came forward so quickly, ready and willing to participate in this initiative. I cannot wait to continue getting your generously donated creations into the hands of those most in need in our community.
 <br>
 <br>
 We're also sending big thanks out to those who've contributed with material donations to help keep us going:
