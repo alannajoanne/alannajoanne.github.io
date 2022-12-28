@@ -16,7 +16,7 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/IMG_3019.jpeg"
 <br>
 
 <center style="font-family: Courier New; font-size: 16px; "><b>DONATIONS TO DATE</b></center>
-<center style="font-family: Courier New; font-size: 16px; "><b>900 Items // 2 Boxes of Yarn</b></center>
+<center style="font-family: Courier New; font-size: 16px; "><b>957 Items // 2 Boxes of Yarn</b></center>
 
 <br>
 
