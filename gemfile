@@ -1,5 +1,9 @@
 source 'https://rubygems.org'
+<<<<<<< HEAD
 gem 'github-pages', group: :jekyll_plugins
 gem "webrick", "~> 1.7"
 
 gem "jekyll", "~> 3.9"
+=======
+gem 'github-pages', group: :jekyll_plugins
+>>>>>>> origin/master

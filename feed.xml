@@ -1,30 +1,625 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title>Alanna Joanne</title>
+    <description>Creator//Poet//Media &amp; Communications 
+</description>
+    <link>http://alannajoanne.com/</link>
+    <atom:link href="http://alannajoanne.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 14 Apr 2022 11:08:13 -0400</pubDate>
+    <lastBuildDate>Thu, 14 Apr 2022 11:08:13 -0400</lastBuildDate>
+    <generator>Jekyll v3.7.3</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>On Grief and Ghosts</title>
+        <description>&lt;div class=&quot;poem&quot;&gt;
+&lt;p&gt;
+*ON GRIEF AND GHOSTS*
+&lt;br /&gt;
+&lt;em&gt;written 24/11/2021&lt;/em&gt;
+&lt;/p&gt;  
+&lt;p&gt;
+In this clan
+&lt;br /&gt;
+it is the Women
+&lt;br /&gt;
+left standing.
+&lt;/p&gt;
+
+&lt;p&gt;
+Our hearts forced
+&lt;br /&gt;
+open, stretched
+&lt;br /&gt;
+and stengthened
+&lt;br /&gt;
+to make room
+&lt;br /&gt;
+for it all.
+&lt;/p&gt;
+
+&lt;p&gt;
+To bear it all —
+&lt;br /&gt;
+the weight of
+&lt;br /&gt;
+this world;
+&lt;br /&gt;
+the love for
+&lt;br /&gt;
+the Earth.
+&lt;/p&gt;
+
+&lt;p&gt;
+Mothers.
+&lt;br /&gt;
+Daughters.
+&lt;/p&gt;
+
+&lt;p&gt;
+Death and
+&lt;br /&gt;
+birth.
+&lt;/p&gt;
+
+&lt;p&gt;
+Biting back
+&lt;br /&gt;
+both tears
+&lt;br /&gt;
+and laughter.
+&lt;/p&gt;
+
+&lt;p&gt;
+Our shoulders,
+&lt;br /&gt;
+bones petite,
+&lt;br /&gt;
+squared against
+&lt;br /&gt;
+the oncoming blaze.
+&lt;br /&gt;
+One step forward
+&lt;br /&gt;
+repeat.
+&lt;/p&gt;
+
+&lt;p&gt;
+Bearing children
+&lt;br /&gt;
+and pain.
+&lt;br /&gt;
+Time and again.
+&lt;/p&gt;
+
+&lt;p&gt;
+And the men
+&lt;br /&gt;
+trail behind.
+&lt;/p&gt;
+
+&lt;p&gt;
+Ghosts and wraiths.
+&lt;/p&gt;
+
+&lt;p&gt;
+In this clan
+&lt;br /&gt;
+it is the Women
+&lt;br /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+And I wonder
+&lt;br /&gt;
+when the Universe
+&lt;br /&gt;
+will cease to be
+&lt;br /&gt;
+so demanding.
+&lt;/p&gt;
+
+&lt;br /&gt;
+&lt;p&gt;
+|| alanna joanne
+&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 04 Jan 2022 09:20:51 -0500</pubDate>
+        <link>http://alannajoanne.com/poems/2022/01/04/On-Grief-and-Ghosts.html</link>
+        <guid isPermaLink="true">http://alannajoanne.com/poems/2022/01/04/On-Grief-and-Ghosts.html</guid>
+        
+        
+        <category>poems</category>
+        
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>I Started a YouTube Channel!</title>
+        <description>&lt;div class=&quot;poem&quot;&gt;
+&lt;p&gt;
+*REAL GIRL SH!T on YOUTUBE*
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;
+In February 2021 I started a YouTube channel as yet another creative outlet. One more pandemic project, if you will. A place for creativity and conversation. Come hang out!
+&lt;/p&gt;  
+&lt;br /&gt;
+&lt;p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/xLPszIZXT2A&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;
+&lt;a href=&quot;https://www.youtube.com/channel/UC0T0KrpES7qIf8p5-O_5Uuw&quot; color=&quot;#111&quot;&gt;SUBSCRIBE!&lt;/a&gt; New Videos Weekly. 
+&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 01 Jul 2021 10:20:51 -0400</pubDate>
+        <link>http://alannajoanne.com/poems/2021/07/01/New-YouTube.html</link>
+        <guid isPermaLink="true">http://alannajoanne.com/poems/2021/07/01/New-YouTube.html</guid>
+        
+        
+        <category>poems</category>
+        
+      </item>
+    
+      <item>
+        <title>The Launch of Knitting Neighbourhoods</title>
+        <description>&lt;div class=&quot;poem&quot;&gt;
+&lt;p&gt;
+*KNITTING NEIGHBOURHOODS*
+&lt;br /&gt;
+&lt;/p&gt;  
+&lt;br /&gt;
+&lt;p&gt;
+  Launched in October 2020, &lt;em&gt;Knitting Neighbourhoods&lt;/em&gt; is a community-based initiative focused on engaging people during dark times, providing creative projects with purpose to support our most vulnerable. Knitting neighbourhoods, one ball of yarn at a time 🧶
+&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://alannajoanne.com/alannajoanne.assets/images/KnittingNeighbourhoods_Logo_Rectangle-Medium-Colour.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;w3-round-large&quot; src=&quot;https://alannajoanne.com/alannajoanne.assets/images/KnittingNeighbourhoods_Logo_Rectangle-Medium-Colour.jpg&quot; alt=&quot;Knitting Neighbourhoods Horizontal Logo, Colour&quot; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;
+Follow &lt;a href=&quot;https://www.instagram.com/knittingneighbourhoods/&quot; color=&quot;#111&quot;&gt;@knittingneighbourhoods&lt;/a&gt; for the latest updates.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&quot;https://www.knittingneighbourhoods.ca&quot; color=&quot;#111&quot;&gt;www.knittingneighbourhoods.ca&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 06 Nov 2020 09:20:51 -0500</pubDate>
+        <link>http://alannajoanne.com/poems/2020/11/06/Knitting-Neighbourhoods.html</link>
+        <guid isPermaLink="true">http://alannajoanne.com/poems/2020/11/06/Knitting-Neighbourhoods.html</guid>
+        
+        
+        <category>poems</category>
+        
+      </item>
+    
+      <item>
+        <title>Halloween 2020</title>
+        <description>&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-permalink=&quot;https://www.instagram.com/p/CHBdOo3A27c/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; data-instgrm-version=&quot;13&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:16px;&quot;&gt; &lt;a href=&quot;https://www.instagram.com/p/CHBdOo3A27c/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; style=&quot; background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;&quot; target=&quot;_blank&quot;&gt; &lt;div style=&quot; display: flex; flex-direction: row; align-items: center;&quot;&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: column; flex-grow: 1; justify-content: center;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 19% 0;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display:block; height:50px; margin:0 auto 12px; width:50px;&quot;&gt;&lt;svg width=&quot;50px&quot; height=&quot;50px&quot; viewBox=&quot;0 0 60 60&quot; version=&quot;1.1&quot; xmlns=&quot;https://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;https://www.w3.org/1999/xlink&quot;&gt;&lt;g stroke=&quot;none&quot; stroke-width=&quot;1&quot; fill=&quot;none&quot; fill-rule=&quot;evenodd&quot;&gt;&lt;g transform=&quot;translate(-511.000000, -20.000000)&quot; fill=&quot;#000000&quot;&gt;&lt;g&gt;&lt;path d=&quot;M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div style=&quot;padding-top: 8px;&quot;&gt; &lt;div style=&quot; color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;&quot;&gt; View this post on Instagram&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 12.5% 0;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;&quot;&gt;&lt;div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: 8px;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: auto;&quot;&gt; &lt;div style=&quot; width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt; &lt;p style=&quot; margin:8px 0 0 0; padding:0 4px;&quot;&gt; &lt;a href=&quot;https://www.instagram.com/p/CHBdOo3A27c/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; style=&quot; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&quot; target=&quot;_blank&quot;&gt;Preparing for the festivities ✨🕸 #HappyHalloween #Samhain #AllHallowsEve #witch&lt;/a&gt;&lt;/p&gt; &lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;A post shared by &lt;a href=&quot;https://www.instagram.com/alannajoanne/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;&quot; target=&quot;_blank&quot;&gt; ɐuuɐןɐ&lt;/a&gt; (@alannajoanne) on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2020-10-31T21:19:52+00:00&quot;&gt;Oct 31, 2020 at 2:19pm PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//www.instagram.com/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-permalink=&quot;https://www.instagram.com/p/CHA6HOSgx5j/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; data-instgrm-version=&quot;13&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:16px;&quot;&gt; &lt;a href=&quot;https://www.instagram.com/p/CHA6HOSgx5j/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; style=&quot; background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;&quot; target=&quot;_blank&quot;&gt; &lt;div style=&quot; display: flex; flex-direction: row; align-items: center;&quot;&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: column; flex-grow: 1; justify-content: center;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 19% 0;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display:block; height:50px; margin:0 auto 12px; width:50px;&quot;&gt;&lt;svg width=&quot;50px&quot; height=&quot;50px&quot; viewBox=&quot;0 0 60 60&quot; version=&quot;1.1&quot; xmlns=&quot;https://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;https://www.w3.org/1999/xlink&quot;&gt;&lt;g stroke=&quot;none&quot; stroke-width=&quot;1&quot; fill=&quot;none&quot; fill-rule=&quot;evenodd&quot;&gt;&lt;g transform=&quot;translate(-511.000000, -20.000000)&quot; fill=&quot;#000000&quot;&gt;&lt;g&gt;&lt;path d=&quot;M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div style=&quot;padding-top: 8px;&quot;&gt; &lt;div style=&quot; color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;&quot;&gt; View this post on Instagram&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 12.5% 0;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;&quot;&gt;&lt;div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: 8px;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: auto;&quot;&gt; &lt;div style=&quot; width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt; &lt;p style=&quot; margin:8px 0 0 0; padding:0 4px;&quot;&gt; &lt;a href=&quot;https://www.instagram.com/p/CHA6HOSgx5j/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; style=&quot; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&quot; target=&quot;_blank&quot;&gt;The full moon rises at 6:30 tonight. Sending Samhain blessings and wishing you all a brilliant All Hallow&amp;#39;s Eve 🕸🌕 #Halloween2020 #Samhain&lt;/a&gt;&lt;/p&gt; &lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;A post shared by &lt;a href=&quot;https://www.instagram.com/alannajoanne/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;&quot; target=&quot;_blank&quot;&gt; ɐuuɐןɐ&lt;/a&gt; (@alannajoanne) on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2020-10-31T16:13:02+00:00&quot;&gt;Oct 31, 2020 at 9:13am PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//www.instagram.com/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-permalink=&quot;https://www.instagram.com/p/CGtlwblgdbm/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; data-instgrm-version=&quot;13&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:16px;&quot;&gt; &lt;a href=&quot;https://www.instagram.com/p/CGtlwblgdbm/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; style=&quot; background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;&quot; target=&quot;_blank&quot;&gt; &lt;div style=&quot; display: flex; flex-direction: row; align-items: center;&quot;&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: column; flex-grow: 1; justify-content: center;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 19% 0;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display:block; height:50px; margin:0 auto 12px; width:50px;&quot;&gt;&lt;svg width=&quot;50px&quot; height=&quot;50px&quot; viewBox=&quot;0 0 60 60&quot; version=&quot;1.1&quot; xmlns=&quot;https://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;https://www.w3.org/1999/xlink&quot;&gt;&lt;g stroke=&quot;none&quot; stroke-width=&quot;1&quot; fill=&quot;none&quot; fill-rule=&quot;evenodd&quot;&gt;&lt;g transform=&quot;translate(-511.000000, -20.000000)&quot; fill=&quot;#000000&quot;&gt;&lt;g&gt;&lt;path d=&quot;M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div style=&quot;padding-top: 8px;&quot;&gt; &lt;div style=&quot; color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;&quot;&gt; View this post on Instagram&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 12.5% 0;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;&quot;&gt;&lt;div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: 8px;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: auto;&quot;&gt; &lt;div style=&quot; width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt; &lt;p style=&quot; margin:8px 0 0 0; padding:0 4px;&quot;&gt; &lt;a href=&quot;https://www.instagram.com/p/CGtlwblgdbm/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; style=&quot; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&quot; target=&quot;_blank&quot;&gt;Queens of this Realm 🌙🕸&lt;/a&gt;&lt;/p&gt; &lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;A post shared by &lt;a href=&quot;https://www.instagram.com/alannajoanne/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;&quot; target=&quot;_blank&quot;&gt; ɐuuɐןɐ&lt;/a&gt; (@alannajoanne) on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2020-10-24T04:09:35+00:00&quot;&gt;Oct 23, 2020 at 9:09pm PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//www.instagram.com/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;~&lt;/p&gt;
+
+&lt;p&gt;📷 Halloween Self Portraits © Alanna Joanne 2018&lt;/p&gt;
+</description>
+        <pubDate>Sat, 31 Oct 2020 10:20:51 -0400</pubDate>
+        <link>http://alannajoanne.com/2020/10/31/Halloween-2020.html</link>
+        <guid isPermaLink="true">http://alannajoanne.com/2020/10/31/Halloween-2020.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Purple Moons</title>
+        <description>&lt;div class=&quot;poem&quot;&gt;
+&lt;p&gt;
+*PURPLE MOONS*
+&lt;br /&gt;
+&lt;/p&gt;  
+&lt;p&gt;
+Two moons
+&lt;br /&gt;
+same phase —
+&lt;br /&gt;
+waxing gibbous
+&lt;br /&gt;
+in a haze.
+&lt;/p&gt;
+
+&lt;p&gt;
+Shrouded.
+&lt;/p&gt;
+
+&lt;p&gt;
+Purple skies.
+&lt;br /&gt;
+Bruised clouds.
+&lt;br /&gt;
+Dark trees.
+&lt;/p&gt;
+
+&lt;p&gt;
+What do you
+&lt;br /&gt;
+mean?
+&lt;/p&gt;
+
+&lt;p&gt;
+Side by side
+&lt;br /&gt;
+does the Wolf
+&lt;br /&gt;
+howl, or is it
+&lt;br /&gt;
+me?
+&lt;/p&gt;
+
+&lt;p&gt;
+Skipping beats
+&lt;br /&gt;
+or hearts
+&lt;br /&gt;
+under the sky
+&lt;br /&gt;
+in twilight.
+&lt;/p&gt;
+
+&lt;p&gt;
+A light,
+&lt;br /&gt;
+a Dream.
+&lt;/p&gt;
+
+&lt;p&gt;
+Shrouded.
+&lt;/p&gt;
+
+&lt;p&gt;
+Two moons,
+&lt;br /&gt;
+same phase.
+&lt;/p&gt;
+
+&lt;br /&gt;
+&lt;p&gt;
+|| alanna joanne
+&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 28 Jul 2020 10:20:51 -0400</pubDate>
+        <link>http://alannajoanne.com/poems/2020/07/28/Purple-Moons.html</link>
+        <guid isPermaLink="true">http://alannajoanne.com/poems/2020/07/28/Purple-Moons.html</guid>
+        
+        
+        <category>poems</category>
+        
+      </item>
+    
+      <item>
+        <title>Skeleton Crews</title>
+        <description>&lt;div class=&quot;poem&quot;&gt;
+&lt;p&gt;
+*SKELETON CREWS*
+&lt;br /&gt;
+&lt;/p&gt;  
+&lt;p&gt;
+There is a morbid freedom
+&lt;br /&gt;
+in embracing this new reality.
+&lt;br /&gt;
+A sense of relief,
+&lt;br /&gt;
+in settling into chaos.
+&lt;br /&gt;
+It's delicious, though
+&lt;br /&gt;
+not pretty, to see
+&lt;br /&gt;
+the world descend
+&lt;br /&gt;
+into an inevitable fate.
+&lt;/p&gt;
+
+&lt;p&gt;
+Humanity has gone dark,
+&lt;br /&gt;
+and the world mad.
+&lt;br /&gt;
+The air has grown toxic,
+&lt;br /&gt;
+but the Earth she thrives.
+&lt;br /&gt;
+Flora blooms, water clears,
+&lt;br /&gt;
+fauna rolls gleefully
+&lt;br /&gt;
+in peaceful fields.
+&lt;/p&gt;
+
+&lt;p&gt;
+And so we pause.
+&lt;br /&gt;
+And we honour silence.
+&lt;/p&gt;
+
+&lt;p&gt;
+Skeleton crews
+&lt;br /&gt;
+in Spring.
+&lt;/p&gt;
+
+&lt;br /&gt;
+&lt;p&gt;
+|| alanna joanne
+&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 16 Mar 2020 10:20:51 -0400</pubDate>
+        <link>http://alannajoanne.com/poems/2020/03/16/Skeleton-Crews.html</link>
+        <guid isPermaLink="true">http://alannajoanne.com/poems/2020/03/16/Skeleton-Crews.html</guid>
+        
+        
+        <category>poems</category>
+        
+      </item>
+    
+      <item>
+        <title>Feathers in the Garden, Vol. I</title>
+        <description>&lt;div class=&quot;poem&quot;&gt;
+&lt;p&gt;
+FEATHERS IN THE GARDEN, VOL. I
+&lt;br /&gt;
+A book of poetry by Alanna Joanne
+&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://alannajoanne.com/alannajoanne.assets/images/COVER_Feathers-in-the-Garden_Vol-1_Alanna-Joanne.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;w3-round-large&quot; src=&quot;https://alannajoanne.com/alannajoanne.assets/images/COVER_Feathers-in-the-Garden_Vol-1_Alanna-Joanne.jpg&quot; alt=&quot;Feathers in the Garden Vol 1 Cover&quot; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+1st Edition
+&lt;br /&gt;
+SOLD OUT
+&lt;br /&gt;
+
+&lt;!--more--&gt;
+
+&lt;p style=&quot;font-family: Courier New;&quot;&gt;
+&lt;em&gt;&lt;b&gt;Feathers in the Garden, Vol. I&lt;/b&gt;&lt;/em&gt;
+&lt;br /&gt;
+82 pages
+&lt;br /&gt;
+Writer: Alanna Joanne
+&lt;br /&gt;
+Editor: Alanna Joanne
+&lt;br /&gt;
+Designer: Alanna Joanne
+&lt;br /&gt;
+&lt;br /&gt;
+copyright © 2019 Alanna Joanne
+&lt;/p&gt;
+&lt;/p&gt;&lt;/div&gt;
+</description>
+        <pubDate>Mon, 09 Mar 2020 10:20:51 -0400</pubDate>
+        <link>http://alannajoanne.com/poems/2020/03/09/Feathers-in-the-Garden.html</link>
+        <guid isPermaLink="true">http://alannajoanne.com/poems/2020/03/09/Feathers-in-the-Garden.html</guid>
+        
+        
+        <category>poems</category>
+        
+      </item>
+    
+      <item>
+        <title>October Rain</title>
+        <description>&lt;div class=&quot;poem&quot;&gt;
+
+&lt;p&gt;
+*OCTOBER RAIN*
+&lt;br /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+October rain showering me
+&lt;br /&gt;
+with visions of a time before.
+&lt;/p&gt;
+
+&lt;p&gt;
+Candy coloured reflections in
+&lt;br /&gt;
+deep, inky pools.
+&lt;/p&gt;
+
+&lt;p&gt;
+I loved you once, when the world
+&lt;br /&gt;
+looked like this.
+&lt;/p&gt;
+
+&lt;p&gt;
+When the scent of Fall was
+&lt;br /&gt;
+falling in loved.
+&lt;/p&gt;
+
+&lt;p&gt;
+And softly drifting leaves,
+&lt;br /&gt;
+your fingertips.
+&lt;/p&gt;
+
+&lt;p&gt;
+Tentative and changing.
+&lt;/p&gt;
+
+&lt;br /&gt;
+&lt;p&gt;
+|| alanna joanne
+&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 16 Oct 2019 10:20:51 -0400</pubDate>
+        <link>http://alannajoanne.com/poems/2019/10/16/October-Rain.html</link>
+        <guid isPermaLink="true">http://alannajoanne.com/poems/2019/10/16/October-Rain.html</guid>
+        
+        
+        <category>poems</category>
+        
+      </item>
+    
+      <item>
+        <title>Plants or Planets</title>
+        <description>&lt;div class=&quot;poem&quot;&gt;
+&lt;p&gt;
+There are moments
+&lt;br /&gt;
+when I don't know
+&lt;br /&gt;
+if what I need is
+&lt;br /&gt;
+plants or planets
+&lt;br /&gt;
+— deep space
+&lt;br /&gt;
+or green space.
+&lt;br /&gt;
+Either way,
+&lt;br /&gt;
+an escape.
+&lt;br /&gt;
+From the chaos
+&lt;br /&gt;
+of this concrete
+&lt;br /&gt;
+jungle.
+&lt;p&gt;
+
+
+&lt;p&gt;
+If there must be
+&lt;br /&gt;
+dust, then let it
+&lt;br /&gt;
+sparkle and float
+&lt;br /&gt;
+between the stars
+&lt;br /&gt;
+and stigmas.
+&lt;/p&gt;
+
+&lt;br /&gt;
+&lt;p&gt;
+|| alanna joanne
+&lt;/p&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;
+</description>
+        <pubDate>Fri, 16 Aug 2019 10:20:51 -0400</pubDate>
+        <link>http://alannajoanne.com/poems/2019/08/16/Plants-or-Planets.html</link>
+        <guid isPermaLink="true">http://alannajoanne.com/poems/2019/08/16/Plants-or-Planets.html</guid>
+        
+        
+        <category>poems</category>
+        
+      </item>
+    
+      <item>
+        <title>Body Language</title>
+        <description>&lt;div class=&quot;poem&quot;&gt;
+  &lt;p&gt;
+*BODY LANGUAGE*
+&lt;br /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+What do we do
+&lt;br /&gt;
+when language isn't
+&lt;br /&gt;
+enough?
+&lt;br /&gt;
+When thoughts
+&lt;br /&gt;
+become frozen,
+&lt;br /&gt;
+and emotions
+&lt;br /&gt;
+suffer motionless.
+&lt;/p&gt;
+
+&lt;p&gt;
+What do we do
+&lt;br /&gt;
+when bodies scream
+&lt;br /&gt;
+soundlessly?
+&lt;br /&gt;
+When limbs
+&lt;br /&gt;
+and lips ache.
+&lt;/p&gt;
+
+&lt;p&gt;
+Can't you hear
+&lt;br /&gt;
+my whispers?
+&lt;br /&gt;
+Why can't you?
+&lt;/p&gt;
+
+&lt;p&gt;
+What do we do
+&lt;br /&gt;
+with these empty
+&lt;br /&gt;
+spaces?
+&lt;br /&gt;
+When they're not
+&lt;br /&gt;
+empty at all.
+&lt;br /&gt;
+I'd drown amongst
+&lt;br /&gt;
+all the misunderstandings.
+&lt;/p&gt;
+
+&lt;p&gt;
+What do we do
+&lt;br /&gt;
+when these human
+&lt;br /&gt;
+forms fail
+&lt;br /&gt;
+to express?
+&lt;br /&gt;
+And I've forgotten
+&lt;br /&gt;
+to tell my story.
+&lt;/p&gt;
+
+&lt;br /&gt;
+&lt;p&gt;
+|| alanna joanne
+&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 13 Nov 2018 09:20:51 -0500</pubDate>
+        <link>http://alannajoanne.com/poems/2018/11/13/body-language.html</link>
+        <guid isPermaLink="true">http://alannajoanne.com/poems/2018/11/13/body-language.html</guid>
+        
+        
+        <category>poems</category>
+        
+      </item>
+    
   </channel>
 </rss>
