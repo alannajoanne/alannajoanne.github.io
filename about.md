@@ -26,7 +26,7 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne_aug
 <br>
 <br>
 
-<center style="font-family: Courier New; font-size: 20px; ">Passionate about the intersection of art, environmental & social justice. Spending Year 31 immersed in growth & discovery.</center>
+<center style="font-family: Courier New; font-size: 20px; ">Passionate about the intersection of art, environmental & social justice. Spending Year 34 immersed in growth & discovery.</center>
 
 <br>
 <div class="poem">
@@ -78,6 +78,7 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne_aug
 
 <center style="font-family: Courier New; font-size: 18px;">PRESENTATIONS</center>
 
+<center style= "font-family: Courier New; font-size: 16px;">December 2023 <b>//</b> Panelist — Making Change Happen: A Conversation, Queen's Unviersity </center>
 <center style= "font-family: Courier New; font-size: 16px;">March 2018 <b>//</b> Guest Lecture – Social Media: Storytelling & The Truth Revolution at Ryerson University's School of Image Arts </center>
 <center style= "font-family: Courier New; font-size: 16px;"> April 2017 <b>//</b> Guest Lecture – Social Media, Marketing & Self Promotion for 4th Year Students at Ryerson University's School of Image Arts</center>
 
