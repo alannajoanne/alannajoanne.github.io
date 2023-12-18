@@ -16,7 +16,7 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne_aug
 <br>
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <center><a href="http://alannajoanne.com/about">
-  <img class="w3-round-large" src="http://alannajoanne.com/alannajoanne.assets/images/IMG_5554 2.JPG"> 
+  <img class="w3-round-large" src="http://alannajoanne.com/alannajoanne.assets/images/IMG_3586 2.JPG">  
 </a></center> 
 <br>
 <p>
@@ -65,8 +65,6 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne_aug
 <center style="font-family: Courier New; font-size: 18px;">PAST</center> 
 
 <center style="font-family: Courier New; font-size: 16px;">Secretary of the Board, Hummingbird Hub</center>
-<center style="font-family: Courier New; font-size: 16px;">Jason Hargrove +</center>
-<center style="font-family: Courier New; font-size: 16px;">Familiar A.I.</center>
 <center style="font-family: Courier New; font-size: 16px;"><a href="https://twitter.com/think2thing">Think2Thing</a></center>
 <center style="font-family: Courier New; font-size: 16px;"><a href="http://be3dimensional.com/">Be3Dimensional</a></center>
 <center style="font-family: Courier New; font-size: 16px;"> <a href="http://ljubodrag-andric.com/">Ljubodrag Andric</a></center>
