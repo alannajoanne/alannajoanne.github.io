@@ -20,7 +20,6 @@ shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne_aug
 </a></center> 
 <br>
 <p>
- <center style="font-family: Courier New; font-size: 10px; ">Still from my Auditioning for GLOW Series on YouTube, March 2021</center>
 </p>
 
 <br>
