@@ -1,0 +1,26 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Alanna Joanne
+email: info@alannajoanne.com
+description: > # this means to ignore newlines until "baseurl:"
+  Creator//Poet//Media & Communications 
+baseurl:  # the subpath of your site, e.g. /blog
+url: "http://alannajoanne.com" # the base hostname & protocol for your site
+twitter_username: alanna_joanne  
+github_username:  alannajoanne  
+about: http://alannajoanne.com/about
+knitting neighbourhoods: http://alannajoanne.com/knitting-neighbourhoods
+shareImage: "http://alannajoanne.com/alannajoanne.assets/images/IMG_5554 2.JPG"
+contactEmail: info@alannajoanne.com
+
+# Build settings
+markdown: kramdown
+excerpt_separator: <!--more-->
+exclude: ['node_modules', 'assets/css/main.scss', 'gulpfile.js', 'README.md', 'webpack.config.js', '_how-to.json']
+ 

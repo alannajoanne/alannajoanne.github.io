@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+// Jekyll Variables
+$base-font-family: "Avenir LT STD 45 Book", Avenir, sans-serif;
+$base-font-size:   17px;
+$base-font-weight: 400;
+$article-letter-spacing: 0.045em;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.8;
+$spacing-unit:     25px;
+$text-color:       #999;
+$background-color: #fff;
+$brand-color:      #111;
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+$cyan-color: cyan;
+$content-width:    800px;
+$on-palm:          600px;
+$on-laptop:        800px;
+
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+      @content;
+  }
+}
+
+@import "../../node_modules/bootstrap/scss/bootstrap-grid";
+@import "../../_sass/base";
+@import "../../_sass/layout";
+@import "../../_sass/alannajoanne";
