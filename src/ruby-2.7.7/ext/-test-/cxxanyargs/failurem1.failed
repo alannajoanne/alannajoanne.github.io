@@ -1,0 +1,35 @@
+compiling failurem1.cpp
+failurem1.cpp:12:5: error: no matching function for call to 'define'
+    rb_define_method(rb_cObject, "argm1", func_argm1, 0);
+    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+../../.././include/ruby/ruby.h:2779:38: note: expanded from macro 'rb_define_method'
+#define rb_define_method(m, n, f, a) rb_define_method_tmpl<a>::define(m, n, f)
+                                     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+../../.././include/ruby/ruby.h:2777:1: note: candidate function not viable: no known conversion from 'VALUE (int, VALUE *, VALUE)' (aka 'unsigned long (int, unsigned long *, unsigned long)') to 'VALUE (*)(VALUE)' (aka 'unsigned long (*)(unsigned long)') for 3rd argument
+RB_METHOD_DEFINITION_DECL(rb_define_method, (2,3), (VALUE klass, const char *name), (klass, name))
+^
+../../.././include/ruby/intern.h:1073:42: note: expanded from macro 'RB_METHOD_DEFINITION_DECL'
+RB_METHOD_DEFINITION_DECL_CXX_BEGIN(def) \
+                                         ^
+../../.././include/ruby/intern.h:1070:5: note: expanded from macro '\
+RB_METHOD_DEFINITION_DECL_1'
+    RB_METHOD_DEFINITION_DECL_CXX(def,defname,decl,vars,funcargs,arity)
+    ^
+../../.././include/ruby/intern.h:1061:21: note: expanded from macro 'RB_METHOD_DEFINITION_DECL_CXX'
+        static void define(RB_UNWRAP_MACRO decl, VALUE (*func)funcargs) {::defname(RB_UNWRAP_MACRO vars, func, arity);} \
+                    ^
+../../.././include/ruby/ruby.h:2777:1: note: candidate function not viable: no known conversion from 'VALUE (int, VALUE *, VALUE)' (aka 'unsigned long (int, unsigned long *, unsigned long)') to 'VALUE (*)(...)' (aka 'unsigned long (*)(...)') for 3rd argument
+RB_METHOD_DEFINITION_DECL(rb_define_method, (2,3), (VALUE klass, const char *name), (klass, name))
+^
+../../.././include/ruby/intern.h:1073:42: note: expanded from macro 'RB_METHOD_DEFINITION_DECL'
+RB_METHOD_DEFINITION_DECL_CXX_BEGIN(def) \
+                                         ^
+../../.././include/ruby/intern.h:1070:5: note: expanded from macro '\
+RB_METHOD_DEFINITION_DECL_1'
+    RB_METHOD_DEFINITION_DECL_CXX(def,defname,decl,vars,funcargs,arity)
+    ^
+../../.././include/ruby/intern.h:1062:21: note: expanded from macro 'RB_METHOD_DEFINITION_DECL_CXX'
+        static void define(RB_UNWRAP_MACRO decl, VALUE (*func)(...)) {::defname(RB_UNWRAP_MACRO vars, reinterpret_cast<VALUE(*)funcargs>(func), arity);} \
+                    ^
+1 error generated.
+make[3]: [failurem1.o] Error 1 (ignored)

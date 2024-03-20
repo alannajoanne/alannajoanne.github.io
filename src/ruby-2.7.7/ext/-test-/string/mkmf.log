@@ -1,0 +1,8 @@
+extconf.h is:
+/* begin */
+1: #ifndef EXTCONF_H
+2: #define EXTCONF_H
+3: #define TEST_INIT_FUNCS(X) X(coderange) X(capacity) X(fstring) X(enc_associate) X(rb_str_dup) X(cstr) X(qsort) X(nofree) X(ellipsize) X(normalize) X(modify) X(set_len) X(enc_str_buf_cat) X(new)
+4: #endif
+/* end */
+

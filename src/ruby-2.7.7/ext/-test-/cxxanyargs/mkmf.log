@@ -1,0 +1,35 @@
+"g++ -o conftest -I../../../.ext/include/arm64-darwin20 -I../../.././include -I../../.././ext/-test-/cxxanyargs  -I/opt/homebrew/opt/openssl@1.1/include -I/opt/homebrew/opt/readline/include -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/gdbm/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -g -O2 conftest.cc  -L. -L../../.. -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib -L. -fstack-protector-strong -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib  -m64   -lruby.2.7-static -framework Security -framework Foundation -lpthread -ldl -lobjc   "
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: int main(int argc, char **argv)
+4: {
+5:   return !!argv[argc];
+6: }
+/* end */
+
+"g++ -I../../../.ext/include/arm64-darwin20 -I../../.././include -I../../.././ext/-test-/cxxanyargs  -I/opt/homebrew/opt/openssl@1.1/include -I/opt/homebrew/opt/readline/include -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/gdbm/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -g -O2 -m64  -c conftest.cc"
+checked program was:
+/* begin */
+ 1: #include "ruby/config.h"
+ 2: 
+ 3: namespace {
+ 4:     typedef int conftest[SIZEOF_LONG == sizeof(long) ? 1 : -1];
+ 5:     typedef int conftest[SIZEOF_VOIDP == sizeof(void*) ? 1 : -1];
+ 6: }
+ 7: 
+ 8: int
+ 9: main(int argc, const char** argv)
+10: {
+11:     return !!argv[argc];
+12: }
+/* end */
+
+extconf.h is:
+/* begin */
+1: #ifndef EXTCONF_H
+2: #define EXTCONF_H
+3: #endif
+/* end */
+

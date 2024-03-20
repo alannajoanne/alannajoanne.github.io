@@ -1,0 +1,364 @@
+have_func: checking for labs() in stdlib.h... -------------------- yes
+
+"gcc -o conftest -I../../.ext/include/arm64-darwin20 -I../.././include -I../.././ext/bigdecimal  -I/opt/homebrew/opt/openssl@1.1/include -I/opt/homebrew/opt/readline/include -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/gdbm/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -g -O2 -pipe conftest.c  -L. -L../.. -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib -L. -fstack-protector-strong -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib  -m64   -lruby.2.7-static -framework Security -framework Foundation -lpthread -ldl -lobjc   "
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: int main(int argc, char **argv)
+4: {
+5:   return !!argv[argc];
+6: }
+/* end */
+
+"gcc -o conftest -I../../.ext/include/arm64-darwin20 -I../.././include -I../.././ext/bigdecimal  -I/opt/homebrew/opt/openssl@1.1/include -I/opt/homebrew/opt/readline/include -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/gdbm/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -g -O2 -pipe conftest.c  -L. -L../.. -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib -L. -fstack-protector-strong -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib  -m64   -lruby.2.7-static -framework Security -framework Foundation -lpthread -ldl -lobjc   "
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <stdlib.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: int t(void) { void ((*volatile p)()); p = (void ((*)()))labs; return !p; }
+/* end */
+
+--------------------
+
+have_func: checking for llabs() in stdlib.h... -------------------- yes
+
+"gcc -o conftest -I../../.ext/include/arm64-darwin20 -I../.././include -I../.././ext/bigdecimal  -I/opt/homebrew/opt/openssl@1.1/include -I/opt/homebrew/opt/readline/include -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/gdbm/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -g -O2 -pipe conftest.c  -L. -L../.. -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib -L. -fstack-protector-strong -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib  -m64   -lruby.2.7-static -framework Security -framework Foundation -lpthread -ldl -lobjc   "
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <stdlib.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: int t(void) { void ((*volatile p)()); p = (void ((*)()))llabs; return !p; }
+/* end */
+
+--------------------
+
+have_func: checking for finite() in math.h... -------------------- yes
+
+"gcc -o conftest -I../../.ext/include/arm64-darwin20 -I../.././include -I../.././ext/bigdecimal  -I/opt/homebrew/opt/openssl@1.1/include -I/opt/homebrew/opt/readline/include -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/gdbm/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -g -O2 -pipe conftest.c  -L. -L../.. -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib -L. -fstack-protector-strong -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib  -m64   -lruby.2.7-static -framework Security -framework Foundation -lpthread -ldl -lobjc   "
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <math.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: int t(void) { void ((*volatile p)()); p = (void ((*)()))finite; return !p; }
+/* end */
+
+--------------------
+
+have_func: checking for isfinite() in math.h... -------------------- no
+
+"gcc -o conftest -I../../.ext/include/arm64-darwin20 -I../.././include -I../.././ext/bigdecimal  -I/opt/homebrew/opt/openssl@1.1/include -I/opt/homebrew/opt/readline/include -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/gdbm/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -g -O2 -pipe conftest.c  -L. -L../.. -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib -L. -fstack-protector-strong -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib  -m64   -lruby.2.7-static -framework Security -framework Foundation -lpthread -ldl -lobjc   "
+conftest.c:16:57: error: use of undeclared identifier 'isfinite'
+int t(void) { void ((*volatile p)()); p = (void ((*)()))isfinite; return !p; }
+                                                        ^
+1 error generated.
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <math.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: int t(void) { void ((*volatile p)()); p = (void ((*)()))isfinite; return !p; }
+/* end */
+
+"gcc -o conftest -I../../.ext/include/arm64-darwin20 -I../.././include -I../.././ext/bigdecimal  -I/opt/homebrew/opt/openssl@1.1/include -I/opt/homebrew/opt/readline/include -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/gdbm/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -g -O2 -pipe conftest.c  -L. -L../.. -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib -L. -fstack-protector-strong -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib  -m64   -lruby.2.7-static -framework Security -framework Foundation -lpthread -ldl -lobjc   "
+conftest.c:16:13: error: expected identifier or '('
+extern void isfinite();
+            ^
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:155:7: note: expanded from macro 'isfinite'
+    ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
+      ^
+conftest.c:16:13: error: expected ')'
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:155:7: note: expanded from macro 'isfinite'
+    ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
+      ^
+conftest.c:16:13: note: to match this '('
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:155:5: note: expanded from macro 'isfinite'
+    ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
+    ^
+conftest.c:17:15: error: expected expression
+int t(void) { isfinite(); return 0; }
+              ^
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:155:15: note: expanded from macro 'isfinite'
+    ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
+              ^
+conftest.c:17:15: error: expected expression
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:155:65: note: expanded from macro 'isfinite'
+    ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
+                                                                ^
+conftest.c:17:15: error: expected expression
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:156:15: note: expanded from macro 'isfinite'
+    : sizeof(x) == sizeof(double) ? __inline_isfinited((double)(x))      \
+              ^
+conftest.c:17:15: error: expected expression
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:156:66: note: expanded from macro 'isfinite'
+    : sizeof(x) == sizeof(double) ? __inline_isfinited((double)(x))      \
+                                                                 ^
+conftest.c:17:15: error: expected expression
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:157:71: note: expanded from macro 'isfinite'
+                                  : __inline_isfinitel((long double)(x)))
+                                                                      ^
+7 errors generated.
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <math.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: extern void isfinite();
+17: int t(void) { isfinite(); return 0; }
+/* end */
+
+--------------------
+
+have_type: checking for struct RRational in ruby.h... -------------------- no
+
+"gcc -I../../.ext/include/arm64-darwin20 -I../.././include -I../.././ext/bigdecimal  -I/opt/homebrew/opt/openssl@1.1/include -I/opt/homebrew/opt/readline/include -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/gdbm/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -g -O2 -pipe -m64  -c conftest.c"
+conftest.c:7:17: error: invalid application of 'sizeof' to an incomplete type 'conftest_type' (aka 'struct RRational')
+int conftestval[sizeof(conftest_type)?1:-1];
+                ^     ~~~~~~~~~~~~~~~
+conftest.c:6:16: note: forward declaration of 'struct RRational'
+typedef struct RRational conftest_type;
+               ^
+1 error generated.
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <ruby.h>
+4: 
+5: /*top*/
+6: typedef struct RRational conftest_type;
+7: int conftestval[sizeof(conftest_type)?1:-1];
+/* end */
+
+--------------------
+
+have_func: checking for rb_rational_num() in ruby.h... -------------------- yes
+
+"gcc -o conftest -I../../.ext/include/arm64-darwin20 -I../.././include -I../.././ext/bigdecimal  -I/opt/homebrew/opt/openssl@1.1/include -I/opt/homebrew/opt/readline/include -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/gdbm/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -g -O2 -pipe conftest.c  -L. -L../.. -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib -L. -fstack-protector-strong -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib  -m64   -lruby.2.7-static -framework Security -framework Foundation -lpthread -ldl -lobjc   "
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <ruby.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: int t(void) { void ((*volatile p)()); p = (void ((*)()))rb_rational_num; return !p; }
+/* end */
+
+--------------------
+
+have_func: checking for rb_rational_den() in ruby.h... -------------------- yes
+
+"gcc -o conftest -I../../.ext/include/arm64-darwin20 -I../.././include -I../.././ext/bigdecimal  -I/opt/homebrew/opt/openssl@1.1/include -I/opt/homebrew/opt/readline/include -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/gdbm/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -g -O2 -pipe conftest.c  -L. -L../.. -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib -L. -fstack-protector-strong -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib  -m64   -lruby.2.7-static -framework Security -framework Foundation -lpthread -ldl -lobjc   "
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <ruby.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: int t(void) { void ((*volatile p)()); p = (void ((*)()))rb_rational_den; return !p; }
+/* end */
+
+--------------------
+
+have_func: checking for rb_array_const_ptr() in ruby.h... -------------------- yes
+
+"gcc -o conftest -I../../.ext/include/arm64-darwin20 -I../.././include -I../.././ext/bigdecimal  -I/opt/homebrew/opt/openssl@1.1/include -I/opt/homebrew/opt/readline/include -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/gdbm/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -g -O2 -pipe conftest.c  -L. -L../.. -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib -L. -fstack-protector-strong -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib  -m64   -lruby.2.7-static -framework Security -framework Foundation -lpthread -ldl -lobjc   "
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <ruby.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: int t(void) { void ((*volatile p)()); p = (void ((*)()))rb_array_const_ptr; return !p; }
+/* end */
+
+--------------------
+
+have_func: checking for rb_sym2str() in ruby.h... -------------------- yes
+
+"gcc -o conftest -I../../.ext/include/arm64-darwin20 -I../.././include -I../.././ext/bigdecimal  -I/opt/homebrew/opt/openssl@1.1/include -I/opt/homebrew/opt/readline/include -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/gdbm/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -g -O2 -pipe conftest.c  -L. -L../.. -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib -L. -fstack-protector-strong -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib  -m64   -lruby.2.7-static -framework Security -framework Foundation -lpthread -ldl -lobjc   "
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <ruby.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: int t(void) { void ((*volatile p)()); p = (void ((*)()))rb_sym2str; return !p; }
+/* end */
+
+--------------------
+
+have_func: checking for rb_opts_exception_p() in ruby.h... -------------------- yes
+
+"gcc -o conftest -I../../.ext/include/arm64-darwin20 -I../.././include -I../.././ext/bigdecimal  -I/opt/homebrew/opt/openssl@1.1/include -I/opt/homebrew/opt/readline/include -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/gdbm/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -g -O2 -pipe conftest.c  -L. -L../.. -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib -L. -fstack-protector-strong -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib  -m64   -lruby.2.7-static -framework Security -framework Foundation -lpthread -ldl -lobjc   "
+conftest.c:16:57: error: use of undeclared identifier 'rb_opts_exception_p'
+int t(void) { void ((*volatile p)()); p = (void ((*)()))rb_opts_exception_p; return !p; }
+                                                        ^
+1 error generated.
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <ruby.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: int t(void) { void ((*volatile p)()); p = (void ((*)()))rb_opts_exception_p; return !p; }
+/* end */
+
+"gcc -o conftest -I../../.ext/include/arm64-darwin20 -I../.././include -I../.././ext/bigdecimal  -I/opt/homebrew/opt/openssl@1.1/include -I/opt/homebrew/opt/readline/include -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/gdbm/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -g -O2 -pipe conftest.c  -L. -L../.. -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib -L. -fstack-protector-strong -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib  -m64   -lruby.2.7-static -framework Security -framework Foundation -lpthread -ldl -lobjc   "
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <ruby.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: extern void rb_opts_exception_p();
+17: int t(void) { rb_opts_exception_p(); return 0; }
+/* end */
+
+--------------------
+
+extconf.h is:
+/* begin */
+ 1: #ifndef EXTCONF_H
+ 2: #define EXTCONF_H
+ 3: #define RUBY_BIGDECIMAL_VERSION "2.0.0"
+ 4: #define HAVE_LABS 1
+ 5: #define HAVE_LLABS 1
+ 6: #define HAVE_FINITE 1
+ 7: #define HAVE_RB_RATIONAL_NUM 1
+ 8: #define HAVE_RB_RATIONAL_DEN 1
+ 9: #define HAVE_RB_ARRAY_CONST_PTR 1
+10: #define HAVE_RB_SYM2STR 1
+11: #define HAVE_RB_OPTS_EXCEPTION_P 1
+12: #endif
+/* end */
+

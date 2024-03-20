@@ -1,0 +1,173 @@
+package configuration for openssl is not found
+have_header: checking for openssl/ssl.h... -------------------- yes
+
+"gcc -E -I../../../.ext/include/arm64-darwin20 -I../../.././include -I../../.././ext/digest/sha1  -I/opt/homebrew/opt/openssl@1.1/include -I/opt/homebrew/opt/readline/include -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/gdbm/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -g -O2 -pipe  conftest.c -o conftest.i"
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <openssl/ssl.h>
+/* end */
+
+--------------------
+
+have_library: checking for CRYPTO_malloc() in -lcrypto... -------------------- yes
+
+"gcc -o conftest -I../../../.ext/include/arm64-darwin20 -I../../.././include -I../../.././ext/digest/sha1  -I/opt/homebrew/opt/openssl@1.1/include -I/opt/homebrew/opt/readline/include -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/gdbm/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -g -O2 -pipe conftest.c  -L. -L../../.. -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib -L. -fstack-protector-strong -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib  -m64   -lruby.2.7-static -framework Security -framework Foundation -lpthread -ldl -lobjc -lcrypto   "
+conftest.c:14:57: error: use of undeclared identifier 'CRYPTO_malloc'
+int t(void) { void ((*volatile p)()); p = (void ((*)()))CRYPTO_malloc; return !p; }
+                                                        ^
+1 error generated.
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: /*top*/
+ 4: extern int t(void);
+ 5: int main(int argc, char **argv)
+ 6: {
+ 7:   if (argc > 1000000) {
+ 8:     int (* volatile tp)(void)=(int (*)(void))&t;
+ 9:     printf("%d", (*tp)());
+10:   }
+11: 
+12:   return !!argv[argc];
+13: }
+14: int t(void) { void ((*volatile p)()); p = (void ((*)()))CRYPTO_malloc; return !p; }
+/* end */
+
+"gcc -o conftest -I../../../.ext/include/arm64-darwin20 -I../../.././include -I../../.././ext/digest/sha1  -I/opt/homebrew/opt/openssl@1.1/include -I/opt/homebrew/opt/readline/include -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/gdbm/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -g -O2 -pipe conftest.c  -L. -L../../.. -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib -L. -fstack-protector-strong -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib  -m64   -lruby.2.7-static -framework Security -framework Foundation -lpthread -ldl -lobjc -lcrypto   "
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: /*top*/
+ 4: extern int t(void);
+ 5: int main(int argc, char **argv)
+ 6: {
+ 7:   if (argc > 1000000) {
+ 8:     int (* volatile tp)(void)=(int (*)(void))&t;
+ 9:     printf("%d", (*tp)());
+10:   }
+11: 
+12:   return !!argv[argc];
+13: }
+14: extern void CRYPTO_malloc();
+15: int t(void) { CRYPTO_malloc(); return 0; }
+/* end */
+
+--------------------
+
+have_library: checking for SSL_new() in -lssl... -------------------- yes
+
+"gcc -o conftest -I../../../.ext/include/arm64-darwin20 -I../../.././include -I../../.././ext/digest/sha1  -I/opt/homebrew/opt/openssl@1.1/include -I/opt/homebrew/opt/readline/include -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/gdbm/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -g -O2 -pipe conftest.c  -L. -L../../.. -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib -L. -fstack-protector-strong -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib  -m64  -lcrypto  -lruby.2.7-static -framework Security -framework Foundation -lpthread -ldl -lobjc -lssl -lcrypto   "
+conftest.c:14:57: error: use of undeclared identifier 'SSL_new'
+int t(void) { void ((*volatile p)()); p = (void ((*)()))SSL_new; return !p; }
+                                                        ^
+1 error generated.
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: /*top*/
+ 4: extern int t(void);
+ 5: int main(int argc, char **argv)
+ 6: {
+ 7:   if (argc > 1000000) {
+ 8:     int (* volatile tp)(void)=(int (*)(void))&t;
+ 9:     printf("%d", (*tp)());
+10:   }
+11: 
+12:   return !!argv[argc];
+13: }
+14: int t(void) { void ((*volatile p)()); p = (void ((*)()))SSL_new; return !p; }
+/* end */
+
+"gcc -o conftest -I../../../.ext/include/arm64-darwin20 -I../../.././include -I../../.././ext/digest/sha1  -I/opt/homebrew/opt/openssl@1.1/include -I/opt/homebrew/opt/readline/include -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/gdbm/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -g -O2 -pipe conftest.c  -L. -L../../.. -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib -L. -fstack-protector-strong -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib  -m64  -lcrypto  -lruby.2.7-static -framework Security -framework Foundation -lpthread -ldl -lobjc -lssl -lcrypto   "
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: /*top*/
+ 4: extern int t(void);
+ 5: int main(int argc, char **argv)
+ 6: {
+ 7:   if (argc > 1000000) {
+ 8:     int (* volatile tp)(void)=(int (*)(void))&t;
+ 9:     printf("%d", (*tp)());
+10:   }
+11: 
+12:   return !!argv[argc];
+13: }
+14: extern void SSL_new();
+15: int t(void) { SSL_new(); return 0; }
+/* end */
+
+--------------------
+
+have_func: checking for SHA1_Transform() in openssl/sha.h with -Werror=deprecated-declarations... -------------------- yes
+
+"gcc -o conftest -I../../../.ext/include/arm64-darwin20 -I../../.././include -I../../.././ext/digest/sha1  -I/opt/homebrew/opt/openssl@1.1/include -I/opt/homebrew/opt/readline/include -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/gdbm/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -g -O2 -pipe conftest.c  -L. -L../../.. -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib -L. -fstack-protector-strong -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib  -m64  -lssl -lcrypto  -lruby.2.7-static -framework Security -framework Foundation -lpthread -ldl -lobjc -Werror=deprecated-declarations -lssl -lcrypto   "
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <openssl/sha.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: int t(void) { void ((*volatile p)()); p = (void ((*)()))SHA1_Transform; return !p; }
+/* end */
+
+--------------------
+
+have_type: checking for SHA_CTX in openssl/sha.h... -------------------- yes
+
+"gcc -I../../../.ext/include/arm64-darwin20 -I../../.././include -I../../.././ext/digest/sha1  -I/opt/homebrew/opt/openssl@1.1/include -I/opt/homebrew/opt/readline/include -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/gdbm/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -g -O2 -pipe -m64  -c conftest.c"
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <openssl/sha.h>
+4: 
+5: /*top*/
+6: typedef SHA_CTX conftest_type;
+7: int conftestval[sizeof(conftest_type)?1:-1];
+/* end */
+
+--------------------
+
+have_header: checking for sys/cdefs.h... -------------------- yes
+
+"gcc -E -I../../../.ext/include/arm64-darwin20 -I../../.././include -I../../.././ext/digest/sha1  -I/opt/homebrew/opt/openssl@1.1/include -I/opt/homebrew/opt/readline/include -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/gdbm/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -g -O2 -pipe  conftest.c -o conftest.i"
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <sys/cdefs.h>
+/* end */
+
+--------------------
+
+extconf.h is:
+/* begin */
+1: #ifndef EXTCONF_H
+2: #define EXTCONF_H
+3: #define HAVE_CONFIG_H 1
+4: #define HAVE_OPENSSL_SSL_H 1
+5: #define HAVE_SHA1_TRANSFORM 1
+6: #define HAVE_TYPE_SHA_CTX 1
+7: #define SHA1_USE_OPENSSL 1
+8: #define HAVE_SYS_CDEFS_H 1
+9: #endif
+/* end */
+

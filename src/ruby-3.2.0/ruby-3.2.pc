@@ -1,0 +1,59 @@
+MAJOR=3
+MINOR=2
+TEENY=0
+ruby_version=3.2.0
+RUBY_API_VERSION=${MAJOR}.${MINOR}
+RUBY_PROGRAM_VERSION=${MAJOR}.${MINOR}.${TEENY}
+arch=arm64-darwin20
+sitearch=${arch}
+
+RUBY_BASE_NAME=ruby
+RUBY_VERSION_NAME=${RUBY_BASE_NAME}-${ruby_version}
+RUBY_SO_NAME=${RUBY_BASE_NAME}.${RUBY_API_VERSION}
+RUBY_INSTALL_NAME=${RUBY_BASE_NAME}
+prefix=/Users/alannajoanne/.rubies/ruby-3.2.0
+exec_prefix=${prefix}
+bindir=${exec_prefix}/bin
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+archlibdir=${libdir}/${arch}
+sitearchlibdir=${libdir}/${sitearch}
+archincludedir=${includedir}/${arch}
+sitearchincludedir=${includedir}/${sitearch}
+ruby=${bindir}/${RUBY_INSTALL_NAME}
+rubylibprefix=${libdir}/${RUBY_BASE_NAME}
+rubyarchprefix=${rubylibprefix}/${arch}
+rubysitearchprefix=${rubylibprefix}/${sitearch}
+rubylibdir=${rubylibprefix}/${ruby_version}
+vendordir=${rubylibprefix}/vendor_ruby
+sitedir=${rubylibprefix}/site_ruby
+vendorlibdir=${vendordir}/${ruby_version}
+sitelibdir=${sitedir}/${ruby_version}
+rubyarchdir=${rubylibdir}/${arch}
+vendorarchdir=${vendorlibdir}/${sitearch}
+sitearchdir=${sitelibdir}/${sitearch}
+rubyhdrdir=${includedir}/${RUBY_VERSION_NAME}
+vendorhdrdir=${rubyhdrdir}/vendor_ruby
+sitehdrdir=${rubyhdrdir}/site_ruby
+rubyarchhdrdir=${rubyhdrdir}/${arch}
+vendorarchhdrdir=${vendorhdrdir}/${sitearch}
+sitearchhdrdir=${sitehdrdir}/${sitearch}
+MAINLIBS=-ldl -lobjc -lpthread 
+SOEXT=dylib
+LIBPATH=@LIBPATH@
+LIBRUBY_A=lib${RUBY_SO_NAME}-static.a
+LIBRUBY_SO=lib${RUBY_SO_NAME}.${SOEXT}.${RUBY_PROGRAM_VERSION}
+LIBRUBY=${LIBRUBY_A}
+LIBRUBYARG_SHARED=
+LIBRUBYARG_STATIC=-l${RUBY_SO_NAME}-static -framework CoreFoundation ${MAINLIBS}
+LIBRUBYARG=${LIBRUBYARG_STATIC}
+LIBS=-lpthread 
+DLDFLAGS=-L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib -Wl,-multiply_defined,suppress -Wl,-undefined,dynamic_lookup
+
+Name: Ruby
+Description: Object Oriented Script Language
+Version: ${ruby_version}
+URL: https://www.ruby-lang.org
+Cflags: -I${rubyarchhdrdir} -I${rubyhdrdir}
+Libs: ${DLDFLAGS} ${LIBRUBYARG_SHARED} ${LIBS}
+Requires:

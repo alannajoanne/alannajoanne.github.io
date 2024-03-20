@@ -1,0 +1,28 @@
+DYLD_FALLBACK_LIBRARY_PATH=.:../../.. "clang++ -o conftest -I../../../.ext/include/arm64-darwin20 -I../../.././include -I../../.././ext/-test-/cxxanyargs  -I/opt/homebrew/opt/openssl@1.1/include -I/opt/homebrew/opt/readline/include -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/gdbm/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fdeclspec conftest.cc  -L. -L../../.. -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib -L. -fstack-protector-strong -L/usr/local/lib -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib     -lruby.3.1-static -framework CoreFoundation -lpthread -ldl -lobjc   "
+checked program was:
+/* begin */
+ 1: #include "ruby/config.h"
+ 2: 
+ 3: #ifdef RUBY_ALTERNATIVE_MALLOC_HEADER
+ 4: # include RUBY_ALTERNATIVE_MALLOC_HEADER
+ 5: #endif
+ 6: 
+ 7: namespace {
+ 8:     typedef int conftest1[SIZEOF_LONG == sizeof(long) ? 1 : -1];
+ 9:     typedef int conftest2[SIZEOF_VOIDP == sizeof(void*) ? 1 : -1];
+10: }
+11: 
+12: int
+13: main(int argc, const char** argv)
+14: {
+15:     return !!argv[argc];
+16: }
+/* end */
+
+extconf.h is:
+/* begin */
+1: #ifndef EXTCONF_H
+2: #define EXTCONF_H
+3: #endif
+/* end */
+
