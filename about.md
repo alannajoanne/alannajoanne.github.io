@@ -8,7 +8,7 @@ authorTwitter: '@alanna_joanne'
 shareImage: "http://alannajoanne.com/alannajoanne.assets/images/alannajoanne_august7-selfportrait.jpg"
 ---
 
-<center style="font-family: Courier New; font-size: 30px; ">MEDIA & COMMUNICATIONS MANAGER</center>
+<center style="font-family: Courier New; font-size: 30px; ">MEDIA & COMMUNICATIONS DIRECTOR</center>
 <p>
 <center style="font-family: Courier New; font-size: 30px; ">DIGITAL CREATOR</center>
 </p>
