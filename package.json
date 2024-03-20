@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "dependencies": {
     "gulp-cli": "^2.0.1",
-    "gulp-update": "0.0.2"
+    "gulp-update": "0.0.2",
   },
   "devDependencies": {
     "babel-core": "^6.5.1",
@@ -15,7 +15,7 @@
     "browser-sync": "^2.27.11",
 =======
     "browser-sync": "^2.11.1",
->>>>>>> origin/master
+>>>>>>> origin/development
     "config": "^1.19.0",
     "css-loader": "^0.23.1",
     "del": "^2.2.0",
@@ -35,7 +35,7 @@
     "node-sass": "^7.0.0",
 =======
     "node-sass": "^4.13.1",
->>>>>>> origin/master
+>>>>>>> origin/development
     "react": "^0.14.7",
     "react-dom": "^0.14.7",
     "react-redux": "^4.4.0",
